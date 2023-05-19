@@ -1,0 +1,2976 @@
+Name: Tarek Abdelzaher
+
+Department: Computer Science
+University: UIUC
+Email: zaher@illinois.edu
+Phone: (217) 265-6793
+Office: 4126 Siebel Center for Comp Sci
+
+Education: Ph. D., Computer Science and Engineering, University of Michigan, Ann Arbor, MI, August 1999.
+Academic Positions: Not Found
+Research Interests: Social Sensing and Social Media Analysis
+Research Interests: Machine Learning for IoT/CPS
+Research Interests: Internet of Things (IoT)
+Research Interests: Cyber-Physical Systems (CPS)
+Research Interests: Sensor Networks and Crowdsensing
+Research Interests: Intelligent Real-time Systems
+
+<----------------------------------------------------------------->
+Name: Sarita V Adve
+
+Department: Computer Science
+UIUC
+Email: sadve@illinois.edu
+Phone: (217) 333-8461
+Office: 4104 Siebel Center for Comp Sci
+
+Education: Computer Science, Ph.D., University of Wisconsin-Madison, 1993
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Vikram Adve
+
+Department: Computer Science
+University: UIUC
+Email: vadve@illinois.edu
+Phone: (217) 244-2016
+Office: 4235 Siebel Center for Comp Sci
+
+Education: Ph.D. in Computer Science from University of Wisconsin-Madison, 1993.
+Academic Positions: Professor, Coordinated Science Laboratory, August 2011-present, 0%
+Academic Positions: Professor, Information Trust Institute, August 2011-present, 0%
+Academic Positions: Professor, Computer Science Department, Univ. of Illinois, August 2011-present, 100%
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Gul A Agha
+
+Department: Computer Science
+University: UIUC
+Email: agha@illinois.edu
+Phone: (217) 244-3087
+Office: 2104 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer & Communication Science, University of Michigan at Ann Arbor, 1985
+Academic Positions: Not Found
+Research Interests: Parallel and Distributed Algorithms and Applications
+Research Interests: Network Embedded Systems Software
+Research Interests: Large-scale Multi-agent Systems
+Research Interests: Concurrent Programming Languages and Semantics
+
+<----------------------------------------------------------------->
+Name: Narendra Ahuja
+
+Department: Computer Science
+University: UIUC
+Email: n-ahuja@illinois.edu
+Phone: (217) 333-1837
+Office: 120 Coordinated Science Lab
+
+Education: PhD   Computer Science      University of Maryland  May 1979
+Academic Positions: Not Found
+Research Interests: Computer Vision, Robotics, Image Processing, Sensors, Pattern Recognition, Virtual Environments, Intelligent Interfaces
+
+<----------------------------------------------------------------->
+Name: Ram Alagappan
+
+Department: Computer Science
+University: UIUC
+Email: ramn@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D. in Computer Science, University of Wisconsin - Madison, 2019
+Education: M.S. in Computer Science, University of Wisconsin - Madison, 2018
+Academic Positions: Assistant Professor, University of Illinois Urbana-Champaign, Computer Science, 2022-Present
+Academic Positions: Postdoctoral Researcher, VMware Research Group, 2020-2022
+Research Interests: Storage systems
+Research Interests: Distributed systems
+Research Interests: Operating systems
+
+<----------------------------------------------------------------->
+Name: Abdussalam  Alawini
+
+Department: Computer Science
+University: UIUC
+Email: alawini@illinois.edu
+Phone: (217) 300-8116
+Office: 2237 Siebel Center for Comp Sci
+
+Education: Ph.D. Computer Science, 2016, Portland State University
+Education: MSc. Engineering and Technology Management, 2011, Portland State University
+Education: MSc. Computer Science, 2011, Portland State University
+Academic Positions: Teaching Assistant Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 8/2018-present
+Academic Positions: Postdoctoral Research Fellow, University of Pennsylvania, Computer and Information Science, 07/2016-07/2018
+Academic Positions: Adjunct Faculty, Portland State University, Computer Science Department, 01/2016-06/2016
+Research Interests: Scientific Data Management
+Research Interests: Data Provenance
+Research Interests: Database Systems
+Research Interests: Computer Science Education
+
+<----------------------------------------------------------------->
+Name: Nancy M. Amato
+
+Department: Computer Science
+University: UIUC
+Email: namato@illinois.edu
+Phone: (217) 333-3426
+Office: 2248 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Parallel and distributed computing, parallel algorithms, performance modeling and optimization.
+Research Interests: Motion planning, robotics, computational biology, computational geometry, animation, CAD.
+
+<----------------------------------------------------------------->
+Name: Mark A Anastasio
+
+Department: Computer Science
+University: UIUC
+Email: maa@illinois.edu
+Phone: 
+Office: 
+
+Education: 1995 – 2001 Ph.D. Medical Physics, The University of Chicago
+Academic Positions: 2019 - Present Affiliate Faculty, Department of Computer Science, University of Illinois Urbana-Champaign
+Academic Positions: 2019 - Present Affiliate Faculty, Beckman Institute, University of Illinois Urbana-Champaign
+Academic Positions: 2019-Present Affiliate Faculty, Carle-Illinois College of Medicine, University of Illinois Urbana-Champaign
+Academic Positions: 2019-Present Affiliate Faculty, Department of Electrical and Computer Engineering, University of Illinois Urbana-Champaign
+Academic Positions: 2019 - Present	Head and Donald Biggar Willett Professor in Engineering, Department of Bioengineering, University of Illinois Urbana-Champaign
+Research Interests: Computational imaging science, image reconstruction, machine learning, inverse problems
+
+<----------------------------------------------------------------->
+Name: Lawrence Angrave
+
+Department: Computer Science
+University: UIUC
+Email: angrave@illinois.edu
+Phone: (217) 333-1424
+Office: 2217 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Accessible Education
+Research Interests: Effective computer science instruction at scale
+
+<----------------------------------------------------------------->
+Name: Brian P Bailey
+
+Department: Computer Science
+University: UIUC
+Email: bpbailey@illinois.edu
+Phone: (217) 333-6106
+Office: 4222 Siebel Center for Comp Sci
+
+Education: University of Minnesota	Ph.D. in Computer Science	2002
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Arindam Banerjee
+
+Department: Computer Science
+University: UIUC
+Email: arindamb@illinois.edu
+Phone: 
+Office: 2128 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Adam Bates
+
+Department: Computer Science
+University: UIUC
+Email: batesa@illinois.edu
+Phone: (217) 300-4653
+Office: 4306 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, University of Florida, 2016. 
+Thesis: "Designing and Leveraging Trustworthy Provenance-Aware Systems."
+Advisor: Kevin Butler
+Education: M.Sc, Computer Science, University of Oregon, 2012. Thesis: "Detecting Compute Cloud Co-residency with Network Flow Watermarking Techniques." Advisor: Kevin Butler
+Education: B.Sc., Computer Science, University of Maryland, 2006.
+Academic Positions: Not Found
+Research Interests: Systems Security
+Research Interests: System Auditing, Data Provenance
+Research Interests: IoT/Mobile Security & Privacy
+Research Interests: Network & Communications Security
+
+<----------------------------------------------------------------->
+Name: Mattox Alan Beckman
+
+Department: Computer Science
+University: UIUC
+Email: mattox@illinois.edu
+Phone: (217) 265-0731
+Office: 2212 Siebel Center for Comp Sci
+
+Education: PhD in Computer Science / University of Illinois at Urbana / 2003
+Education: BS in Math and Computer Science / University of Illinois at Urbana / 1993
+Academic Positions: Not Found
+Research Interests: Programming Languages
+Research Interests: Computer Science Education
+
+<----------------------------------------------------------------->
+Name: Suma Bhat
+
+Department: Computer Science
+University: UIUC
+Email: spbhat2@illinois.edu
+Phone: (217) 244-6187
+Office: 322 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Natural Language Processing
+Research Interests: Learning Analytics
+Research Interests: Human Computer Interaction
+
+<----------------------------------------------------------------->
+Name: Catherine Lesley Blake
+
+Department: Computer Science
+University: UIUC
+Email: clblake@illinois.edu
+Phone: (217) 333-0115
+Office: 303 Grad Sch of Lib & Info Science
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Nikita Borisov
+
+Department: Computer Science
+University: UIUC
+Email: nikita@illinois.edu
+Phone: (217) 244-5385
+Office: 460 Coordinated Science Lab
+
+Education: Ph.D. in Computer Science, UC Berkeley, 2005
+Academic Positions: Not Found
+Research Interests: Fingerprinting of network traffic and endpoints
+Research Interests: Privacy-preserving data sharing
+Research Interests: Design and analysis of anonymous networks
+
+<----------------------------------------------------------------->
+Name: Timothy Bretl
+
+Department: Computer Science
+University: UIUC
+Email: tbretl@illinois.edu
+Phone: (217) 244-3126
+Office: 148 Coordinated Science Lab
+
+Education: Ph.D., Aeronautics and Astronautics, Stanford University, 2005 (Thesis: "Multi-Step Motion Planning: Application to Free-Climbing Robots" / Advisor: Stephen M. Rock)
+Education: M.S., Aeronautics and Astronautics, Stanford University, 2000
+Education: B.A., Mathematics, Swarthmore College, 1999
+Education: B.S., Engineering, Swarthmore College, 1999
+Academic Positions: Severns Faculty Scholar, University of Illinois at Urbana-Champaign, 8/21-present
+Academic Positions: Associate Head of Aerospace Engineering, University of Illinois at Urbana-Champaign, 8/15-present
+Academic Positions: Visiting Researcher, LAAS-CNRS, Toulouse, France, 6/13-12/13
+Academic Positions: Associate Professor of Aerospace Engineering, University of Illinois at Urbana-Champaign, 8/13-present
+Academic Positions: 0% Affiliate, Neuroscience Program, University of Illinois at Urbana-Champaign, 9/10-present
+Academic Positions: 0% Affiliate, Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, 1/10-present
+Academic Positions: 0% Affiliate, Computer Science, University of Illinois at Urbana-Champaign, 5/08-present
+Academic Positions: 0% Affiliate, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1/08-present
+Academic Positions: 0% Affiliate, Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, 4/07-present
+Academic Positions: Assistant Professor of Aerospace Engineering, University of Illinois at Urbana-Champaign, 8/06-8/13
+Academic Positions: Postdoctoral Research Affiliate, Computer Science Department, Stanford University, 6/05-4/06 (Advisor: Jean-Claude Latombe)
+Research Interests: engineering education
+Research Interests: rehabilitation robotics (upper- and lower-limb prosthetic devices)
+Research Interests: brain-machine interfaces
+Research Interests: optimal control
+Research Interests: robotic manipulation
+Research Interests: motion planning
+Research Interests: theoretical and algorithmic foundations of robotics and automation
+
+<----------------------------------------------------------------->
+Name: Robert J Brunner
+
+Department: Computer Science
+University: UIUC
+Email: bigdog@illinois.edu
+Phone: (217) 244-6099
+Office: 355 Wohlers Hall
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Matthew Caesar
+
+Department: Computer Science
+University: UIUC
+Email: caesar@illinois.edu
+Phone: (847) 323-2968
+Office: 3118 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, University of California, Berkeley, 2007
+Academic Positions: Not Found
+Research Interests: Simplifying management and improving reliability of distributed systems and networks through principles of self-organization and self-diagnosis, with an emphasis on wide-area networks and networked systems.
+Research Interests: My research focuses on the design, analysis, and implementation of distributed systems and networks on the extremely large scale, with an emphasis on network operations, measurement, and availability. I am particularly interested in improving availability and performance of the Internet infrastructure, including routing, DNS, and data centers.
+
+<----------------------------------------------------------------->
+Name: Roy H Campbell
+
+Department: Computer Science
+University: UIUC
+Email: rhc@illinois.edu
+Phone: 
+Office: 3126 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, University of Newcastle upon Tyne, May 1977
+Academic Positions: Not Found
+Research Interests: Machine Learning, Neural networks, Transformers, Federated Learning and their applications to health data analytics, mobile devices, and control systems.
+Research Interests: Health Data Analytics: Multi-modal modeling and analysis in Longitudinal Studies of Neurological Disorders, Aging, and Genetics; Covid, Covid Variants, Epilepsy, ECG data.
+Research Interests: Problems and techniques of complex computer system organization and software engineering including: cloud computing, software development environments, operating systems, distributed and parallel systems, object-oriented design, networks, real-time systems, programming language design, verification, reliability, abstract data types, synchronization, data bases, security, digital forensics, fault tolerant systems, compilers, machine architecture, digital video and audio networking.
+
+<----------------------------------------------------------------->
+Name: George Chacko
+
+Department: Computer Science
+University: UIUC
+Email: chackoge@illinois.edu
+Phone: (217) 244-1420
+Office: 2130 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Geoffrey Werner Challen
+
+Department: Computer Science
+University: UIUC
+Email: challen@illinois.edu
+Phone: (217) 300-6150
+Office: 2227 Siebel Center for Comp Sci
+
+Education: Ph.D. Computer Science, Harvard University, 6/2010
+Education: AB Physics, Harvard University, 6/2003
+Academic Positions: Associate Teaching Professor, University of Illinois, 8/2017–
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Timothy Moon-Yew Chan
+
+Department: Computer Science
+University: UIUC
+Email: tmc@illinois.edu
+Phone: (217) 300-1097
+Office: 3230 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Karthekeyan Chandrasekaran
+
+Department: Computer Science
+University: UIUC
+Email: karthe@illinois.edu
+Phone: (217) 300-1160
+Office: 301 Transportation Building
+
+Education: Bachelor of Technology, Computer Science and Engineering, Indian Institute of Technology, Madras, 2007
+Education: Ph.D., Algorithms, Combinatorics, and Optimization, Georgia Institute of Technology, Atlanta, 2012
+Academic Positions: Simons Postdoctoral Research Fellow, School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, Sep, 2012--Aug, 2014
+Academic Positions: Affiliate, Computer Science, University of Illinois at Urbana-Champaign, IL, Sep, 2014--present
+Academic Positions: Assistant Professor, Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, IL, Sep, 2014--Aug, 2021
+Academic Positions: Associate Professor, Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, IL, Aug, 2021--present
+Research Interests: Probabilistic Methods and Analysis
+Research Interests: Integer Programming
+Research Interests: Randomized and Approximation Algorithms
+Research Interests: Combinatorial Optimization
+
+<----------------------------------------------------------------->
+Name: Eshwar Chandrasekharan
+
+Department: Computer Science
+University: UIUC
+Email: eshwar@illinois.edu
+Phone: (217) 244-8872
+Office: 4226 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Interactive Computing
+
+<----------------------------------------------------------------->
+Name: Kevin Chenchuan Chang
+
+Department: Computer Science
+University: UIUC
+Email: kcchang@illinois.edu
+Phone: (217) 244-2919
+Office: 2134 Siebel Center for Comp Sci
+
+Education: Ph.D. Electrial Engineering, Stanford University, 2001
+Academic Positions: Not Found
+Research Interests: data mining, database systems, machine learning, information retrieval, web search/mining, social media analytics
+
+<----------------------------------------------------------------->
+Name: Chandra Sekhar Chekuri
+
+Department: Computer Science
+University: UIUC
+Email: chekuri@illinois.edu
+Phone: (217) 265-0705
+Office: 3228 Siebel Center for Comp Sci
+
+Education: Ph.D. in Computer Science, Stanford University				1998
+Education: B. Tech in Computer Science, Indian Institute of Technology, Madras		1993
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Deming Chen
+
+Department: Computer Science
+University: UIUC
+Email: dchen@illinois.edu
+Phone: (217) 244-3922
+Office: 250 Coordinated Science Lab
+
+Education: Ph.D. in Computer Science,
+University of California at Los Angeles,
+2005
+Education: B.S. Computer Science,	
+University of Pittsburgh, 
+Pittsburgh, Pennsylvania,
+1995
+Academic Positions: Not Found
+Research Interests: GPU optimization and GPU computing
+Research Interests: Hardware/software co-design for SoC
+Research Interests: Computational genomics
+Research Interests: Machine learning and hardware acceleration
+Research Interests: Reconfigurable computing and FPGAs
+Research Interests: Hardware security for smart IoT applications
+Research Interests: System-level and high-level synthesis
+
+<----------------------------------------------------------------->
+Name: Wendy K Tam Cho
+
+Department: Computer Science
+University: UIUC
+Email: wendycho@illinois.edu
+Phone: (217) 333-9588
+Office: 304E David Kinley Hall
+
+Education: A.B. 
+Political Science, University of California at Berkeley, 
+Berkeley, California, 1990
+Education: A.B. 
+Applied Mathematics (applied field: ComputerScience), 
+University of California at Berkeley, Berkeley, California, 1990
+Education: M.A. 
+Political Science, University of California at Berkeley, 
+Berkeley, California, 1992
+Education: M.A. 
+Statistics, University of California at Berkeley, 
+Berkeley, California, 1997
+Education: Ph.D Political Science, University of California at Berkeley, 
+Berkeley, California, 1997
+Academic Positions: Senior Research Scientist, National Center for Supercomputing Applications 
+University of Illinois at Urbana-Champaign, 2006-
+Academic Positions: Professor, University of Illinois at Urbana-Champaign, Department of Political Science, Department of Statistics, Department of Mathematics, Department of Computer Science, Department of Asian American Studies, Law School, 2010-
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Girish Chowdhary
+
+Department: Computer Science
+University: UIUC
+Email: girishc@illinois.edu
+Phone: 
+Office: 150 Coordinated Science Lab
+
+Education: BEng, Royal Melbourne Institute of Technology, 2003, Melbourne, Australia
+Education: M.S., Georgia Institute of Technology, 2008, Atlanta, GA
+Education: Ph.D., Georgia Institute of Technology, 2010, Atlanta, GA
+Academic Positions: Associate Professor, Agricultural and Biological Engineering and Computer Science (Joint Appointment), University of Illinois Urbana-Champaign, 2020 - current
+Academic Positions: Assistant Professor, Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, 2016-2020
+Academic Positions: Assistant Professor, Oklahoma State University Mechanical and Aerospace Engineering, 2013-2016
+Academic Positions: Postdoctoral associate, Massachusetts Institute of Technology, Laboratory for Information and Decision Systems, 2011-2013
+Research Interests: Machine Learning for machine vision
+Research Interests: Adaptive Control and Reinforcement Learning
+Research Interests: Autonomy
+Research Interests: Robotics
+
+<----------------------------------------------------------------->
+Name: Camille Cobb
+
+Department: Computer Science
+University: UIUC
+Email: camillec@illinois.edu
+Phone: 
+Office: 4230 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Benjamin Cosman
+
+Department: Computer Science
+University: UIUC
+Email: bcosman@illinois.edu
+Phone: (217) 244-8874
+Office: 2334 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Katie Cunningham
+
+Department: Computer Science
+University: UIUC
+Email: katcun@illinois.edu
+Phone: 
+Office: 3215 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Ryan Matthew Cunningham
+
+Department: Computer Science
+University: UIUC
+Email: rcunnin2@illinois.edu
+Phone: 
+Office: 2211 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Neal E Davis
+
+Department: Computer Science
+University: UIUC
+Email: davis68@illinois.edu
+Phone: (217) 244-4181
+Office: 2229 Siebel Center for Comp Sci
+
+Education: Ph.D., Nuclear Engineering, University of Illinois, 2013
+Education: M.S., Nuclear Engineering, University of Illinois, 2011
+Education: B.S., Chemical Engineering, Brigham Young University, 2008
+Academic Positions: Assistant Director of Training, Computational Science and Engineering, University of Illinois
+February 2016--August 2016
+Academic Positions: Software Carpentry Instructor Trainer
+May 2016--March 2020
+Academic Positions: Software Carpentry Instructor
+October 2013--present
+Academic Positions: Teaching Assistant Professor (100%), Computer Science, University of Illinois, August 2016--present
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Gerald F DeJong, II
+
+Department: Computer Science
+University: UIUC
+Email: mrebl@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Machine Learning, Artificial Intelligence
+
+<----------------------------------------------------------------->
+Name: Payam Delgosha
+
+Department: Computer Science
+University: UIUC
+Email: delgosha@illinois.edu
+Phone: 
+Office: 3328 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Machine Learning, Information Theory, Game Theory, and Theory and Algorithms
+
+<----------------------------------------------------------------->
+Name: Jana Diesner
+
+Department: Computer Science
+University: UIUC
+Email: jdiesner@illinois.edu
+Phone: (217) 244-3576
+Office: Grad Sch of Lib & Info Science
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Minh N Do
+
+Department: Computer Science
+University: UIUC
+Email: minhdo@illinois.edu
+Phone: (217) 244-4782
+Office: 113 Coordinated Science Lab
+
+Education: Doctor of Science in Communication Systems, Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland, 2001.
+Academic Positions: Faculty member (full-time), Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, 2002 - present.
+Academic Positions: Faculty member (part-time), Beckman Institute, University of Illinois at Urbana-Champaign, 2002 - present.
+Academic Positions: Affiliate Professor, College of Medicine, University of Illinois at Urbana-Champaign, 2022 - present.
+Academic Positions: Affiliate Professor, Department of Bioengineering, University of Illinois at Urbana-Champaign, 2009 - present.
+Academic Positions: Professor, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2014 - present.
+Academic Positions: Associate Professor, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2008 - 2014.
+Academic Positions: Assistant Professor, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2002 - 2008.
+Research Interests: Data science
+Research Interests: Visual analytics
+Research Interests: Computational imaging
+Research Interests: Signal processing
+
+<----------------------------------------------------------------->
+Name: Katie Driggs-Campbell
+
+Department: Computer Science
+University: UIUC
+Email: krdc@illinois.edu
+Phone: 
+Office: 260 Coordinated Science Lab
+
+Education: PhD in Electrical Engineering and Computer Sciences, University of California, Berkeley, 2017
+Education: MS in Electrical Engineering and Computer Sciences, University of California, Berkeley, 2015
+Education: BSE in Electrical Engineering, Arizona State University, 2012
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Geir E Dullerud
+
+Department: Computer Science
+University: UIUC
+Email: dullerud@illinois.edu
+Phone: (217) 265-5078
+Office: 340 Mechanical Engineering Bldg
+
+Education: Ph.D., Information Engineering, Cambridge University, England, 1994
+Education: M.A.Sc.	Elec Eng	University of Toronto, Canada	1990
+Education: B.A.Sc.	Eng Science	University of Toronto, Canada	1988
+Academic Positions: W. Grafton and Lillian B. Wilkins Professor of Mechanical Engineering, 2016-present.
+Academic Positions: Affiliate, Department of Computer Science, UIUC, Jan 14, 2016-present
+Academic Positions: Visiting Professor, Department of Electrical Engineering, Royal Institute of Technology(KTH), Stockholm, Sweden, April-July, 2013
+Academic Positions: Research Professor, Coordinated Science Laboratory, UIUC, August 16, 2006-date
+Academic Positions: Professor, Department of Mechanical Science and Engineering, UIUC, August 16, 2006-date
+Academic Positions: Visiting Associate Professor, Department of Aeronautics and Astronautics, Stanford University, July 20, 2005- July 19, 2006
+Academic Positions: Associate Professor, Department of Mechanical and Industrial Engineering, UIUC, Aug. 16, 2003-2006
+Academic Positions: Research Associate Professor, Coordinated Science Laboratory, UIUC, Aug. 16, 2003-2006
+Academic Positions: Willett Faculty Scholar , College of Engineering, UIUC, 2002-date
+Academic Positions: Affiliate, Department of Electrical and Computer Engineering, UIUC, Oct. 2000-date
+Academic Positions: Research Assistant Professor, Coordinated Science Laboratory, UIUC, Aug. 2000-2003
+Academic Positions: Assistant Professor, Department of Mechanical and Industrial Engineering, UIUC, July 16, 1998-Aug. 15, 2003
+Academic Positions: Assistant Professor, Department of Applied Mathematics, University of Waterloo, Waterloo, Canada, Jan. 1996-July 1998
+Academic Positions: Research Fellow and Lecturer, Department of Control and Dynamical Systems, California Institute of Technology, Pasadena, CA, Feb. 1994-Nov. 1995
+Academic Positions: Research Associate, Information Engineering Department, Cambridge University, Cambridge, England, July 1993-Jan. 1994
+Research Interests: Dynamic modeling
+Research Interests: Optimization and control
+
+<----------------------------------------------------------------->
+Name: Mohammed El-Kebir
+
+Department: Computer Science
+University: UIUC
+Email: melkebir@illinois.edu
+Phone: (217) 333-0135
+Office: 3216 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, VU University Amsterdam and Centrum Wiskunde & Informatica (CWI), 2015
+Education: M.S., Bioinformatics, VU University Amsterdam, 2010
+Education: M.S., Computer Science and Engineering, Eindhoven University of Technology, 2009
+Education: B.S., Computer Science and Engineering, Eindhoven University of Technology, 2006
+Academic Positions: Assistant Professor (affiliate), University of Illinois at Urbana-Champaign, Institute of Genomic Biology, 2018-Present
+Academic Positions: Assistant Professor (affiliate), University of Illinois at Urbana-Champaign, Department of Electrical and Computer Engineering, 2018-Present
+Academic Positions: Assistant Professor (affiliate), University of Illinois at Urbana-Champaign, National Center of Supercomputing Applications, 2018-Present
+Academic Positions: Assistant Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2018-Present
+Academic Positions: Postdoc, Princeton University, Department of Computer Science, 2016-2017
+Research Interests: Combinatorial optimization and its applications to cancer and infection genomics
+
+<----------------------------------------------------------------->
+Name: Jeff Erickson
+
+Department: Computer Science
+University: UIUC
+Email: jeffe@illinois.edu
+Phone: (217) 333-6769
+Office: 3237 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, University of California, Berkeley, July 1996
+Education: M.S., Information and Computer Science, University of California, Irvine, June 1992
+Education: B.A., Computer Science and Mathematical Sciences (double major), Rice University, May 1987
+Academic Positions: Sohaib and Sara Abbasi Professor, University of Illinois at Urbana-Champaign, 2020-present
+Academic Positions: Professor, University of Illinois at Urbana-Champaign, 2010-present
+Academic Positions: Associate Professor (tenured), University of Illinois at Urbana-Champaign, 2004-2010
+Academic Positions: Assistant Professor, University of Illinois at Urbana-Champaign, 1998-2004
+Research Interests: Algorithms, data structures, and lower bounds
+Research Interests: Computational and discrete geometry and topology
+
+<----------------------------------------------------------------->
+Name: Carl Evans
+
+Department: Computer Science
+University: UIUC
+Email: gcevans@illinois.edu
+Phone: (217) 300-5458
+Office: 3209 Siebel Center for Comp Sci
+
+Education: Doctor of Philosophy in Computer Science
+University of Illinois at Urbana–Champaign 2016
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Wade A Fagen-Ulmschneider
+
+Department: Computer Science
+University: UIUC
+Email: waf@illinois.edu
+Phone: (217) 300-2812
+Office: 2215 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Faculty Fellow, Center for Innovation in Teaching and Learning, University of Illinois at Urbana-Champaign, 2021 - Present
+Academic Positions: Teaching Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign, 2019 - Present
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Paul Fischer
+
+Department: Computer Science
+University: UIUC
+Email: fischerp@illinois.edu
+Phone: (217) 300-2031
+Office: 4320 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Margaret M Fleck
+
+Department: Computer Science
+University: UIUC
+Email: mfleck@illinois.edu
+Phone: (217) 265-6838
+Office: 3214 Siebel Center for Comp Sci
+
+Education: Ph.D., Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Sept. 1988
+Education: M.S., Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Sept. 1985
+Education: B.A., Linguistics, Yale University, May 1982
+Academic Positions: Not Found
+Research Interests: Computational LInguistics
+
+<----------------------------------------------------------------->
+Name: Christopher Wardlaw Fletcher
+
+Department: Computer Science
+University: UIUC
+Email: cwfletch@illinois.edu
+Phone: (217) 300-2309
+Office: 4106 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Michael A Forbes
+
+Department: Computer Science
+University: UIUC
+Email: miforbes@illinois.edu
+Phone: (217) 300-0454
+Office: 3220 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: David Forsyth
+
+Department: Computer Science
+University: UIUC
+Email: daf@illinois.edu
+Phone: (217) 265-6851
+Office: 3310 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Computer vision, Computer graphics, Machine learning
+
+<----------------------------------------------------------------->
+Name: H George Friedman
+
+Department: Computer Science
+University: UIUC
+Email: friedman@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Aishwarya Ganesan
+
+Department: Computer Science
+University: UIUC
+Email: aganesn2@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D. in Computer Sciences, University of Wisconsin-Madison, 2020
+Education: M.Tech. in Computer Science and Engineering, Indian Institute of Technology Bombay, 2013
+Academic Positions: Assistant Professor, Computer Science, UIUC (Fall 2022 - )
+Research Interests: Distributed systems
+Research Interests: Storage and file systems
+Research Interests: Operating systems
+
+<----------------------------------------------------------------->
+Name: Jugal Garg
+
+Department: Computer Science
+University: UIUC
+Email: jugal@illinois.edu
+Phone: (217) 244-1757
+Office: 216B Transportation Building
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Computational Aspects of Economics and Game Theory
+Research Interests: Design and Analysis of Algorithms
+Research Interests: Mathematical Programming
+Research Interests: Fair Division
+
+<----------------------------------------------------------------->
+Name: Yael Gertner
+
+Department: Computer Science
+University: UIUC
+Email: ygertner@illinois.edu
+Phone: (217) 244-6410
+Office: 2340 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Saugata Ghose
+
+Department: Computer Science
+University: UIUC
+Email: ghose@illinois.edu
+Phone: (217) 333-1893
+Office: 4120 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Engineering, Cornell University, 2014
+Education: M.S., Computer Engineering, Cornell University, 2014
+Education: B.S., Computer Science, State University of New York at Binghamton, 2007
+Education: B.S., Computer Engineering, State University of New York at Binghamton, 2007
+Academic Positions: Assistant Professor, University of Illinois Urbana-Champaign, Computer Science, January 2021 – present
+Academic Positions: Affiliate Faculty, University of Illinois Urbana-Champaign, Electrical and Computer Engineering, June 2021 – present
+Academic Positions: Special Faculty Systems Scientist, Carnegie Mellon University, Electrical and Computer Engineering, August 2016 – December 2020
+Academic Positions: Postdoctoral Research Associate, Carnegie Mellon University, Electrical and Computer Engineering, September 2014 – August 2016
+Research Interests: Data-centric computer architectures and systems
+Research Interests: Processing-in-memory (PIM)
+Research Interests: Memory and storage systems
+Research Interests: Computing platforms for smart cities, autonomous vehicles, robotics, and genomics
+
+<----------------------------------------------------------------->
+Name: Roxana Girju
+
+Department: Computer Science
+University: UIUC
+Email: girju@illinois.edu
+Phone: (217) 244-3060
+Office: 4016B Foreign Languages Building
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Brighten Godfrey
+
+Department: Computer Science
+University: UIUC
+Email: pbg@illinois.edu
+Phone: 
+Office: 3211 Siebel Center for Comp Sci
+
+Education: University of California at Berkeley, Ph.D. in Computer Science, 2009
+Academic Positions: Not Found
+Research Interests: Design and analysis of networked systems, algorithms for networks, low latency networked systems, data center network architectures, software-defined networks, network verification, AI and ML for networked systems.
+
+<----------------------------------------------------------------->
+Name: Mani Golparvar Fard
+
+Department: Computer Science
+University: UIUC
+Email: mgolpar@illinois.edu
+Phone: 
+Office: 3129D Newmark Civil Engineering Bldg
+
+Education: Bachelor of Science in Civil Engineering, Iran University of Science and Technology, 1998-2002
+Education: Master of Science in Civil Engineering, Area: Hydro Structures, Iran University of Science and Technology,  2002-2005
+Education: Master of Applied Science in Civil Engineering, Area: Project and Construction Management, University of British Columbia, 2005-2006
+Education: Master of Computer Science, Areas: Computer Vision and Machine Learning, University of Illinois at Urbana-Champaign, 2008-2010
+Education: Doctor of Philosophy in Civil Engineering, Area: Construction Engineering and Management, University of Illinois at Urbana-Champaign, 2006-2010
+Academic Positions: Assistant Professor, Virginia Tech, Via Department of Civil and Environmental Engineering, 2010-2012
+Academic Positions: Principal Faculty, Virginia Tech, Myers-Lawson School of Construction, 2010-2012
+Academic Positions: Assistant Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, 2013-2016
+Academic Positions: Assistant Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2013-2016
+Academic Positions: Associate Professor, Faculty Entrepreneurial Fellow, and Faculty Excellence Fellow, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, 2016-2022
+Academic Positions: Associate Professor, University of Illinois at Urbana-Champaign, Technology Entrepreneurship Program, 2017-2022
+Academic Positions: Associate Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2016-2022
+Academic Positions: Faculty Affiliate, University of Illinois at Urbana-Champaign, Illinois Institute of Informatics, 2013-present
+Academic Positions: Faculty Affiliate, University of Illinois at Urbana-Champaign, Computational Science and Engineering (CSE) Program, 2013-present
+Academic Positions: Professor, Faculty Entrepreneurial Fellow, and Faculty Excellence Fellow, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, 2022-present
+Academic Positions: Professor, University of Illinois at Urbana-Champaign, Technology Entrepreneurship Program, 2022-present
+Academic Positions: Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2022-present
+Academic Positions: Professor, University of Illinois System, Discovery Partners Institute, 2022-present
+Research Interests: Computer Vision and Machine Learning for Monitoring Construction and Operation in the Built Environment
+
+<----------------------------------------------------------------->
+Name: William D Gropp
+
+Department: Computer Science
+University: UIUC
+Email: wgropp@illinois.edu
+Phone: (217) 244-6720
+Office: 4314 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: High Performance Computing
+Research Interests: Programming models for scientific computing
+Research Interests: Scalable Numerical Algorithms
+Research Interests: Scientific Computing
+Research Interests: Parallel Computing
+
+<----------------------------------------------------------------->
+Name: Kaiyu Guan
+
+Department: Computer Science
+University: UIUC
+Email: kaiyug@illinois.edu
+Phone: (217) 300-2690
+Office: S-508 Turner Hall
+
+Education: PhD, Environmental Engineering, Princeton University, 2013
+Education: B.S. Geography, Geoinformatics, Nanjing University, 2008
+Academic Positions: Postdoctoral scholar, Stanford University, 2013-2015
+Academic Positions: Assistant Professor, University of Illinois at Urbana Champaign, 2016-2021
+Academic Positions: Associate Professor, University of Illinois at Urbana Champaign, 2021-Present
+Academic Positions: Founding Director, Agroecosystem Sustainability Center, UIUC, 2021-Present
+Research Interests: Ecohydrology, Crop Remote Sensing, Crop Modeling and Forecasting, Agriculture Adaptation to Climate Change, Vegetation Dynamic Modeling, Terrestrial Remote Sensing (optical/microwave), Biogeography, Drought, Vegetation Phenology, Tropical Ecology, GIS
+
+<----------------------------------------------------------------->
+Name: Liangyan Gui
+
+Department: Computer Science
+University: UIUC
+Email: lgui@illinois.edu
+Phone: 
+Office: 3330 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Carl Gunter
+
+Department: Computer Science
+University: UIUC
+Email: cgunter@illinois.edu
+Phone: (217) 244-1982
+Office: 4304 Siebel Center for Comp Sci
+
+Education: Ph.D., Mathematics (Minor in Philosophy), University of Wisconsin-Madison, January 1985
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Elsa Gunter
+
+Department: Computer Science
+University: UIUC
+Email: egunter@illinois.edu
+Phone: (217) 265-6118
+Office: 2112 Siebel Center for Comp Sci
+
+Education: Ph.D., Mathematics, University of Wisconsin, 1987
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Indranil Gupta
+
+Department: Computer Science
+University: UIUC
+Email: indy@illinois.edu
+Phone: (217) 265-5517
+Office: 3112 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, Cornell University, Ithaca, NY, 2004
+Education: Bachelor of Technology, Computer Science and Engineering, Indian Institute of Technology (IIT), Chennai, India, 1998
+Academic Positions: Not Found
+Research Interests: Large-scale Distributed systems
+Research Interests: Distributed Systems + X
+Research Interests: Distributed Systems + IoT/Edge Systems
+
+<----------------------------------------------------------------->
+Name: Saurabh Gupta
+
+Department: Computer Science
+University: UIUC
+Email: saurabhg@illinois.edu
+Phone: 
+Office: 319 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Jiawei Han
+
+Department: Computer Science
+University: UIUC
+Email: hanj@illinois.edu
+Phone: (217) 333-6903
+Office: 2132 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Sciences, University of Wisconsin-Madison, 1985
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Mehdi T Harandi
+
+Department: Computer Science
+University: UIUC
+Email: harandi@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Sariel Har-Peled
+
+Department: Computer Science
+University: UIUC
+Email: sariel@illinois.edu
+Phone: (217) 333-4219
+Office: 3306 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: John C Hart
+
+Department: Computer Science
+University: UIUC
+Email: jch@illinois.edu
+Phone: (217) 333-8740
+Office: 3227 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Mark Hasegawa-Johnson
+
+Department: Computer Science
+University: UIUC
+Email: jhasegaw@illinois.edu
+Phone: (217) 333-0925
+Office: 2011 Beckman Institute
+
+Education: Ph.D., Elec. Eng. & Comp. Sc., MIT, 1996
+Academic Positions: Not Found
+Research Interests: Acoustic phonetics, Audio signal processing and speech recognition, Speech and auditory physiology.
+
+<----------------------------------------------------------------->
+Name: Kris K Hauser
+
+Department: Computer Science
+University: UIUC
+Email: kkhauser@illinois.edu
+Phone: (217) 244-0821
+Office: 3233 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, Stanford University, 2008
+Education: B.A., Mathematics, University of California at Berkeley, 2003
+Education: B.A., Computer Science, University of California at Berkeley, 2003
+Academic Positions: Associate Professor, Affiliate Appointment, Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, 2020-Present
+Academic Positions: Associate Professor, Affiliate Appointment, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2019-Present
+Academic Positions: Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign, 2019-Present
+Academic Positions: Associate Professor, Department of Electrical and Computer Engineering, Department of Mechanical Engineering and Materials Science, Duke University, 2014-2019
+Academic Positions: Assistant Professor, Department of Computer Science and Informatics, Indiana University, 2009-2014
+Research Interests: Robot motion planning and control, semiautonomous robots, and integrating perception and planning, as well as applications to intelligent vehicles, robotic manipulation, robot-assisted medicine, and legged locomotion.
+
+<----------------------------------------------------------------->
+Name: Jing Rui He
+
+Department: Computer Science
+University: UIUC
+Email: jingrui@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: David Heath
+
+Department: Computer Science
+University: UIUC
+Email: daheath@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Michael T Heath
+
+Department: Computer Science
+University: UIUC
+Email: heath@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D. Computer Science Stanford University 1978
+Academic Positions: Not Found
+Research Interests: Professor Heath's general areas of research are in large-scale scientific computing, numerical analysis,
+and parallel computing. His primary research interests are in numerical linear algebra, particularly sparse matrix computations. He also has significant research interests
+in parallel performance visualization, parallel programming environments, numerical optimization,
+and mathematical software.
+
+<----------------------------------------------------------------->
+Name: Geoffrey Lindsay Herman
+
+Department: Computer Science
+University: UIUC
+Email: glherman@illinois.edu
+Phone: 
+Office: 3213 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Julia Hockenmaier
+
+Department: Computer Science
+University: UIUC
+Email: juliahmr@illinois.edu
+Phone: (217) 265-6855
+Office: 3324 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Derek W Hoiem
+
+Department: Computer Science
+University: UIUC
+Email: dhoiem@illinois.edu
+Phone: (217) 333-0806
+Office: 3312 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Professor, Department of Computer Science, UIUC, 2021 to present
+Research Interests: Computer Vision, Object Recognition, Scene Understanding, Graphics
+
+<----------------------------------------------------------------->
+Name: Yih-Chun Hu
+
+Department: Computer Science
+University: UIUC
+Email: yihchun@illinois.edu
+Phone: (217) 333-4220
+Office: 464 Coordinated Science Lab
+
+Education: Ph.D. in Computer Science, Carnegie Mellon University, Pittsburgh, PA. May 2003. Advisor: David B. Johnson. Dissertation: Enabling Secure High-Performance Wireless Ad Hoc Networking.
+Academic Positions: Not Found
+Research Interests: Vehicular Networks
+Research Interests: Wireless Networks
+Research Interests: Privacy in Wireless Networks
+Research Interests: Network Security
+
+<----------------------------------------------------------------->
+Name: Jian Huang
+
+Department: Computer Science
+University: UIUC
+Email: jianh@illinois.edu
+Phone: (217) 300-3104
+Office: 212 Coordinated Science Lab
+
+Education: Ph.D., Computer Science, Georgia Institute of Technology, 2017
+Academic Positions: Not Found
+Research Interests: Computer Systems
+Research Interests: Computer Architecture
+Research Interests: Memory and Storage Systems
+Research Interests: Distributed Systems
+Research Interests: Systems Security
+
+<----------------------------------------------------------------->
+Name: Yun Huang
+
+Department: Computer Science
+University: UIUC
+Email: yunhuang@illinois.edu
+Phone: 
+Office: 236 Grad Sch of Lib & Info Science
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Wen-mei Hwu
+
+Department: Computer Science
+University: UIUC
+Email: w-hwu@illinois.edu
+Phone: (217) 244-8270
+Office: 215 Coordinated Science Lab
+
+Education: Ph.D., Computer Science, University of California, Berkeley, 1987
+Academic Positions: Acting Department Head, Electrical & Computer Engineering - August 2018 to August 2019
+Academic Positions: Chief Scientist, Parallel Computing Institute, University of Illinois at Urbana-Champaign - May 2009 to present
+Academic Positions: Sanders III Advanced Micro Devices, Inc., Endowed Chair in Electrical and Computer Engineering - March 2003 to present
+Academic Positions: Franklin W. Woeltge Professor of Electrical and Computer Engineering - August 2000 to 2003
+Academic Positions: Research Professor of Coordinated Science Laboratory - August 1996 to Present
+Academic Positions: Professor, Electrical & Computer Engineering - August 1996 to Present
+Research Interests: Architecture, microarchitecture, libraries, and programming tools for parallel cognitive computing systems.
+
+<----------------------------------------------------------------->
+Name: Ravishankar K Iyer
+
+Department: Computer Science
+University: UIUC
+Email: rkiyer@illinois.edu
+Phone: (217) 333-9732
+Office: 255 Coordinated Science Lab
+
+Education: Ph.D., Electrical Engineering, University of Queensland, 1977
+Education: BE     Electrical Engineering      University of Queensland    1973
+Academic Positions: Founder and Chief Scientist, Armored Computing, Inc.
+Academic Positions: Interim Vice Chancellor for Research, University of Illinois, 2008-2011
+Academic Positions: Director, Motorola Center for Communication, 2000-2008
+Academic Positions: Director, Coordinated Science Laboratory, University of Illinois, 2000-2008
+Academic Positions: Acting Director, Coordinated Science Laboratory, University of Illinois, August 1995-May 1996
+Academic Positions: Co-Director, Center for Reliable and High-Performance Computing, University of Illinois, 1989-present
+Academic Positions: Co-Director, Illinois Computer Laboratory for Aerospace Systems and Software (ICLASS), National Aeronautics and Space Administration (NASA) Center for Excellence in Aerospace Computing, 1985-1998
+Academic Positions: Director and Principal Investigator, Multi-University DARPA Project on Design for Dependability, 1994-1998
+Academic Positions: Associate Professor, Electrical and Computer Engineering, University of Illinois, August 1985-1989
+Academic Positions: Research Associate Professor, Coordinated Science Laboratory, University of Illinois, August 1985-1989
+Academic Positions: Associate Professor, Computer Science, University of Illinois, August 1985-1989
+Academic Positions: Assistant Professor, Electrical and Computer Engineering, University of Illinois, August 1983-August 1985
+Academic Positions: Research Assistant Professor, Coordinated Science Laboratory, University of Illinois, August 1983-August 1985
+Academic Positions: Acting Assistant Professor and Research Associate, Department of Electrical Engineering, Stanford University, April 1980-August 1983
+Academic Positions: Yeoh Ghim Seng Visiting Professor, National University Health System, Singapore, 2017-present
+Academic Positions: Adjunct Professor, School of Computer Science and Engineering, University of New South Wales, 2018-present
+Academic Positions: Faculty, Carle Illinois College of Medicine
+Academic Positions: Faculty Research Affiliate, Mayo Clinic, 2016-present
+Academic Positions: Chief Scientist, Information Trust Institute, 2004-present
+Academic Positions: Carl R. Woese Institute for Genomic Biology, Faculty in Computing Genomes for Reproductive Health Research Theme, 2015-present
+Academic Positions: CyberSecurity Division Faculty Advisor, NCSA, 2015-present
+Academic Positions: Affiliate Faculty, NCSA, 2015-present
+Academic Positions: Research Professor, Coordinated Science Laboratory, University of Illinois, 1989-present
+Academic Positions: Professor, Computer Science, University of Illinois, 1989-present
+Academic Positions: Professor, Electrical and Computer Engineering, University of Illinois, 1989-present
+Academic Positions: George and Ann Fisher Distinguished Professor of Electrical and Computer Engineering, University of Illinois, 1998-present
+Research Interests: Reliable and secure networks and systems, Measurement and modeling, dependability and security validation and benchmarking, data analytics, computing for genomics research, machine learning, artificial intelligence, computer systems, measurement driven analytics and machine learning, AI and health, trustworthiness of AI systems and algorithms.
+
+<----------------------------------------------------------------->
+Name: Reyhaneh Jabbarvand
+
+Department: Computer Science
+University: UIUC
+Email: reyhaneh@illinois.edu
+Phone: 
+Office: 2106 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Sheldon Howard Jacobson
+
+Department: Computer Science
+University: UIUC
+Email: shj@illinois.edu
+Phone: (217) 244-7275
+Office: 3224 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Heng Ji
+
+Department: Computer Science
+University: UIUC
+Email: hengji@illinois.edu
+Phone: (217) 244-0862
+Office: 3318 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Natural Language Processing and its connections with Data Mining, Social Science and Vision.
+
+<----------------------------------------------------------------->
+Name: Nan Jiang
+
+Department: Computer Science
+University: UIUC
+Email: nanjiang@illinois.edu
+Phone: (217) 300-8275
+Office: 3322 Siebel Center for Comp Sci
+
+Education: PhD, Computer Science and Engineering, University of Michigan, 2017
+Education: Bachelor of Engineering, Automation, Tsinghua University, 2011
+Academic Positions: Not Found
+Research Interests: Reinforcement Learning
+
+<----------------------------------------------------------------->
+Name: Laxmikant V Kale
+
+Department: Computer Science
+University: UIUC
+Email: kale@illinois.edu
+Phone: (217) 244-0094
+Office: Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Samuel N Kamin
+
+Department: Computer Science
+University: UIUC
+Email: kamin@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Daniel Kang
+
+Department: Computer Science
+University: UIUC
+Email: ddkang@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Analytics with Machine Learning, Databases with Machine Learning, Machine Learning security, Machine Learning + cryptography
+
+<----------------------------------------------------------------->
+Name: Karrie Karahalios
+
+Department: Computer Science
+University: UIUC
+Email: kkarahal@illinois.edu
+Phone: (217) 265-6841
+Office: 4228 Siebel Center for Comp Sci
+
+Education: Ph.D., Media Arts and Sciences, Massachusetts Institute of Technology, 2004.
+Academic Positions: Affiliate Professor, Unit for Criticism & Interpretive Theory, University of Illinois, 2018-Present
+Academic Positions: Affiliate Professor, Electrical and Computer Engineering, University of Illinois, 2018-Present
+Academic Positions: Professor, Department of Computer Science, University of Illinois, 2017-Present
+Academic Positions: Affiliate Professor, Coordinated Science Laboratory, University of Illinois, 2013-Present
+Academic Positions: Co-Director and Founder, Center for People and Infrastructures, Coordinated Science Laboratory, University of Illinois, 2011-Present
+Academic Positions: Berkman Fellow, Berkman Center for Internet and Society, Harvard University
+Academic Positions: Affiliate Professor, School of Library and Information Science, University of Illinois, June 2008-Present
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Daniel S Katz
+
+Department: Computer Science
+University: UIUC
+Email: dskatz@illinois.edu
+Phone: (217) 244-8000
+Office: 4102A Nat Center for Suprcomp Appl
+
+Education: BS, Electrical Engineering, Northwestern University, 1988
+Education: MS, Electrical Engineering, Northwestern University, 1990
+Education: PhD, Electrical Engineering, Northwestern University, 1994
+Academic Positions: Chief Scientist, NCSA (100%, 2020 - Present)
+Academic Positions: Research Associate Professor, School of Information Sciences (0%, 2016 - Present)
+Academic Positions: Research Associate Professor, Electrical and Computer Engineering (0%, 2016 - Present)
+Academic Positions: Research Associate Professor, Computer Science (0%, 2016 - Present)
+Academic Positions: Assistant Director for Scientific Software & Applications, NCSA (100%, 2016 - Present)
+Academic Positions: Guest Faculty, Data Science and Learning Division, Argonne National Laboratory (0%, 2016 - 2021)
+Academic Positions: Senior Fellow, Computation Institute, Argonne National Laboratory (2009 - 2016)
+Academic Positions: Senior Fellow, Computation Institute, University of Chicago (2009 - 2016)
+Academic Positions: Affiliate Faculty, Center for Computation & Technology (CCT), LSU (2009 - 2020)
+Academic Positions: Adjunct Associate Professor, Electrical and Computer Engineering, LSU (2006 - 2013)
+Academic Positions: Director for Cyberinfrastructure Development, Center for Computation & Technology (CCT), LSU (2006 - 2009)
+Research Interests: Resilience and fault-tolerance
+Research Interests: Parallel and distributed computing
+Research Interests: Many task computing
+Research Interests: Sustainable and open science, focusing on software, including software citation and software publication
+
+<----------------------------------------------------------------->
+Name: Dakshita Khurana
+
+Department: Computer Science
+University: UIUC
+Email: dakshita@illinois.edu
+Phone: (217) 244-0658
+Office: 4308 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Theoretical Computer Science
+Research Interests: Security
+Research Interests: Privacy
+Research Interests: Cryptography
+
+<----------------------------------------------------------------->
+Name: Nam Sung Kim
+
+Department: Computer Science
+University: UIUC
+Email: nskim@illinois.edu
+Phone: (217) 244-9169
+Office: 217 Coordinated Science Lab
+
+Education: B.S., Electrical Engineering, Korea Advanced Institute of Science and Technology, 1997.
+Education: M.S., Electrical Engineering, Korea Advanced Institute of Science and Technology, 2000.
+Education: Ph.D., Computer Science and Engineering, University of Michigan, Ann Arbor, 2004.
+Academic Positions: Assistant Professor, University of Wisconsin, Madison, Electrical and Computer Engineering, Aug 2008 -- July 2013.
+Academic Positions: Associate Professor, University of Wisconsin, Madison, Electrical and Computer Engineering, Aug 2013-- Aug 2015.
+Academic Positions: Associate Professor, University of Illinois, Urbana-Champaign, Electrical and Computer Engineering, Aug 2015 -- Aug 2018.
+Academic Positions: Professor, University of Illinois, Urbana-Champaign, Electrical and Computer Engineering, Aug 2018 --
+Research Interests: High-performance, energy-efficent processor, memory, storage, network and system architectures
+Research Interests: Energy-efficient computing techniques for mobile/wearable devices and data centers
+
+<----------------------------------------------------------------->
+Name: Volodymyr Kindratenko
+
+Department: Computer Science
+University: UIUC
+Email: kindrtnk@illinois.edu
+Phone: (217) 265-0209
+Office: 3050E Nat Center for Suprcomp Appl
+
+Education: D.Sc., analytical chemistry, University of Antwerp, Antwerp, Belgium, 1997
+Education: M.Sc., mathematics and informatics, Vynnychenko State Pedagogical University, Kirovograd, Ukraine, 1993
+Academic Positions: Visiting Lecturer, ECE, UIUC, 2009-2013
+Academic Positions: Research Associate Professor, CS,  UIUC, 2018-present
+Academic Positions: Adjunct Associate Professor, ECE, UIUC, 2013-present
+Academic Positions: Senior Research Scientist, NCSA, UIUC, 2004-2021
+Research Interests: AI/deep learning systems and applications
+Research Interests: cloud computing
+Research Interests: parallel computing
+Research Interests: special-purpose computing architectures
+Research Interests: High-performance computing
+
+<----------------------------------------------------------------->
+Name: Alex Kirlik
+
+Department: Computer Science
+University: UIUC
+Email: kirlik@illinois.edu
+Phone: (217) 244-8972
+Office: 4220 Siebel Center for Comp Sci
+
+Education: Ph.D. Industrial & Systems Engineering, The Ohio State University, 1989.
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Andreas Paul Eberhard Kloeckner
+
+Department: Computer Science
+University: UIUC
+Email: andreask@illinois.edu
+Phone: (217) 244-6401
+Office: 4318 Siebel Center for Comp Sci
+
+Education: PhD, Applied Mathematics, Brown University (2010)
+Education: MSc, Applied Mathematics, Brown University (2006)
+Education: Diplom, Applied Mathematics ("Technomathematik"), Universität Karlsruhe/Germany (2005)
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Bill Kramer
+
+Department: Computer Science
+University: UIUC
+Email: wtkramer@illinois.edu
+Phone: (217) 333-6260
+Office: 4122 E Nat Center for Suprcomp Appl
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Robin Hillary Kravets
+
+Department: Computer Science
+University: UIUC
+Email: rhk@illinois.edu
+Phone: (217) 244-6026
+Office: 3114 Siebel Center for Comp Sci
+
+Education: Georgia Institute of Technology, Atlanta, GA, Ph.D. Computer Science, August 1999
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: David J. Kuck
+
+Department: Computer Science
+University: UIUC
+Email: admin@cs.illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Rakesh Kumar
+
+Department: Computer Science
+University: UIUC
+Email: rakeshk@illinois.edu
+Phone: (217) 333-5955
+Office: 208 Coordinated Science Lab
+
+Education: University of California, San Diego. Ph.D in Computer Engineering. Department of Computer
+Science & Engineering.
+Academic Positions: University of Illinois, Urbana-Champaign, Department of Electrical and Computer Engineering. Professor.
+Academic Positions: University of Illinois, Urbana-Champaign, Department of Electrical and Computer Engineering. Associate Professor.
+Academic Positions: University of Illinois, Urbana-Champaign, Department of Electrical and Computer Engineering. Assistant Professor.
+Research Interests: Low power and complexity-effective designs
+Research Interests: CAD/architecture interactions
+Research Interests: Computer Architecture
+
+<----------------------------------------------------------------->
+Name: Ranjitha Kumar
+
+Department: Computer Science
+University: UIUC
+Email: ranjitha@illinois.edu
+Phone: (217) 300-0953
+Office: 4224 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: H Chad Lane
+
+Department: Computer Science
+University: UIUC
+Email: hclane@illinois.edu
+Phone: 
+Office: 240 Education Building
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Steven M. LaValle
+
+Department: Computer Science
+University: UIUC
+Email: lavalle@illinois.edu
+Phone: (217) 265-6313
+Office: 3318 Siebel Center for Comp Sci
+
+Education: Doctor of Philosophy in Electrical Engineering, University of Illinois, 1995
+Academic Positions: Not Found
+Research Interests: Robotics, sensing, motion planning, cyber-physical systems, control theory, computational geometry, artificial intelligence, computational biology, computer vision, computer graphics, virtual reality, filtering, sensor fusion, planning algorithms.
+
+<----------------------------------------------------------------->
+Name: Duncan H Lawrie
+
+Department: Computer Science
+University: UIUC
+Email: lawrie@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Svetlana Lazebnik
+
+Department: Computer Science
+University: UIUC
+Email: slazebni@illinois.edu
+Phone: (217) 300-2422
+Office: 3308 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Kirill Levchenko
+
+Department: Computer Science
+University: UIUC
+Email: klevchen@illinois.edu
+Phone: +1 217 300-8620
+Office: 458 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Cyber-physical system security, network security, e-crime and Internet service abuse
+
+<----------------------------------------------------------------->
+Name: Colleen M. Lewis
+
+Department: Computer Science
+University: UIUC
+Email: colleenl@illinois.edu
+Phone: (217) 244-8891
+Office: 3106 Siebel Center for Comp Sci
+
+Education: University of California, Berkeley, B.S. in Electrical Engineering and Computer Science - 2005
+Education: University of California, Berkeley, M.S. in Computer Science - 2009
+Education: University of California, Berkeley, Ph.D. in Science and Mathematics Education - 2012
+Academic Positions: Assistant Professor of Computer Science, Harvey Mudd College - 2012-2018
+Academic Positions: McGregor-Girand Associate Professor of Computer Science, Harvey Mudd College -  2018-2020
+Academic Positions: Teaching Faculty at the Race and Equity Center, USC Rossier School of Education - 2018-present
+Academic Positions: Assistant Professor of Computer Science, University of Illinois at Urbana-Champaign - 2020-2021
+Academic Positions: Associate Professor of Computer Science, University of Illinois at Urbana-Champaign - 2021-present
+Research Interests: Broadening Participation in Computing
+Research Interests: Computer Science Education
+
+<----------------------------------------------------------------->
+Name: Bo Li
+
+Department: Computer Science
+University: UIUC
+Email: lbo@illinois.edu
+Phone: (217) 300-8141
+Office: 4310 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Information Theory
+Research Interests: Game Theory
+Research Interests: Privacy
+Research Interests: Adversarial Machine Learning
+Research Interests: Security
+Research Interests: Artificial Intelligence
+
+<----------------------------------------------------------------->
+Name: Yunzhu Li
+
+Department: Computer Science
+University: UIUC
+Email: yunzhuli@illinois.edu
+Phone: 
+Office: 
+
+Education: B.S., Computer Science, Peking University, 2017
+Education: S.M., Computer Science, Massachusetts Institute of Technology, 2020
+Education: Ph.D., Computer Science, Massachusetts Institute of Technology, 2022
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Hongye Liu
+
+Department: Computer Science
+University: UIUC
+Email: hl314@illinois.edu
+Phone: (217) 244-0858
+Office: 2231 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Jane W.-S. Liu
+
+Department: Computer Science
+University: UIUC
+Email: j-liu1@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Bertram Ludaescher
+
+Department: Computer Science
+University: UIUC
+Email: ludaesch@illinois.edu
+Phone: (217) 244-3302
+Office: 319 Grad Sch of Lib & Info Science
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Steven Lumetta
+
+Department: Computer Science
+University: UIUC
+Email: lumetta@illinois.edu
+Phone: (217) 244-5564
+Office: 209 Coordinated Science Lab
+
+Education: Ph.D., Computer Science, University of California at Berkeley, December 1998
+Academic Positions: Not Found
+Research Interests: computational genomics, smartphone-based bioassays, optical network architecture, computer architecture, cluster computing, parallel computing, user-level communication, validation and reliability
+
+<----------------------------------------------------------------->
+Name: Darko Marinov
+
+Department: Computer Science
+University: UIUC
+Email: marinov@illinois.edu
+Phone: (217) 265-6117
+Office: 4233 Siebel Center for Comp Sci
+
+Education: 2005 Ph.D., Computer Science, Massachusetts Institute of Technology, Cambridge, MA
+Academic Positions: Professor, University of Illinois at Urbana-Champaign, Urbana, IL, Computer Science, 2017-present
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Kenton Guadron McHenry
+
+Department: Computer Science
+University: UIUC
+Email: mchenry@illinois.edu
+Phone: (217) 265-5387
+Office: 2002B Nat Center for Suprcomp Appl
+
+Education: Ph.D. in Computer Science, University of Illinois at Urbana-Champaign
+Education: B.S. in Computer Science, California State University of San Bernardino
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Ruta Mehta
+
+Department: Computer Science
+University: UIUC
+Email: rutameht@illinois.edu
+Phone: (217) 300-4650
+Office: 3218 Siebel Center for Comp Sci
+
+Education: Doctor of Philosophy, Computer Science and Engineering, Indian Institute of Technology, Bombay. 2012. Advisor: Prof. Milind Sohoni
+Education: Masters of Technology,Computer Science and Engineering, Indian Institute of Technology, Bombay, 2005
+Education: Bachelor of Engineering, Computer Engineering, Maharaja Saiyajirao University (MSU) Baroda, 2003
+Academic Positions: Assistant Professor, Dept of Computer Science, University of Illinois at Urbana-Champaign. 2016 - Present
+Academic Positions: Postdoctoral Fellow, Simons Institute for Theory of Computing, University of California at Berkeley. July'15 - Dec'15. Host: Prof. Allistair Sinclair.
+Academic Positions: Postdoctoral Fellow, College of Computing, Georgia Institute of Technology. Sept'12 - July'15.  Host: Prof. Vijay V. Vazirani
+Academic Positions: Software Engineer and Developer, Sybase India, Aug'05 - July'07
+Research Interests: Algorithmic Game Theory: Equilibrium Computation and Complexity, Smoothed Analysis, Learning in Games, Strategic and Dynamic Aspects
+Research Interests: Fair division
+Research Interests: Interdisciplinary applications of game-theoretic tools to machine learning, genetic evolution, and climate change.
+
+<----------------------------------------------------------------->
+Name: Charith Mendis
+
+Department: Computer Science
+University: UIUC
+Email: charithm@illinois.edu
+Phone: 
+Office: 4118 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, Massachusetts Institute of Technology, 2020
+Education: S.M., Computer Science, Massachusetts Institute of Technology, 2015
+Education: B.Sc., Electronics and Telecommunication Engineering, University of Moratuwa, 2013
+Academic Positions: Adjunct Assistant Professor,  University of Illinois at Urbana-Champaign, Computer Science, Aug 2020 - Aug 2021
+Academic Positions: Assistant Professor, University of Illinois at Urbana-Champaign, Computer Science, Aug 2021 - present
+Research Interests: Compilers
+Research Interests: Machine Learning for Systems
+Research Interests: Programming Languages
+
+<----------------------------------------------------------------->
+Name: Jose Meseguer
+
+Department: Computer Science
+University: UIUC
+Email: meseguer@illinois.edu
+Phone: (217) 333-6733
+Office: 2108 Siebel Center for Comp Sci
+
+Education: Ph.D. in Mathematics, University of Zaragoza, 1975 ("Cum Laude")
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: M Dennis Mickunas
+
+Department: Computer Science
+University: UIUC
+Email: mickunas@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Olgica Milenkovic
+
+Department: Computer Science
+University: UIUC
+Email: milenkov@illinois.edu
+Phone: (217) 244-7358
+Office: 311 Coordinated Science Lab
+
+Education: PhD, Electrical and Computer Engineering, University of Michigan, Ann Arbor, 2002
+Education: MSc, Mathematics, University of Michigan, Ann Arbor, 2001
+Academic Positions: Visiting Professor, University of California, San Diego 2006-2007
+Academic Positions: Assistant Professor, University of Colorado, Boulder 2002-2007
+Research Interests: Communications - Coding theory and applications
+Research Interests: Learning in Hyperbolic Spaces
+Research Interests: Graph Theory
+Research Interests: Applications of Steiner Systems
+Research Interests: Hypergraph clustering
+Research Interests: DNA-Based Data Storage, Coding for DNA-Based Data Storage, String Reconstruction
+Research Interests: Community Detection via Correlation Clustering
+Research Interests: Social Sciences and Voting Theory
+Research Interests: Rank aggregation
+Research Interests: Compressive Sensing
+Research Interests: Signal Processing
+Research Interests: Information Theory
+Research Interests: Constrained Coding
+Research Interests: Error-Control Coding (Algebraic/Iterative)
+Research Interests: Bioinformatics
+Research Interests: Analysis of Algorithms
+
+<----------------------------------------------------------------->
+Name: Andrew Miller
+
+Department: Computer Science
+University: UIUC
+Email: soc1024@illinois.edu
+Phone: (217) 300-4893
+Office: 461 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Sasa Misailovic
+
+Department: Computer Science
+University: UIUC
+Email: misailo@illinois.edu
+Phone: (217) 300-4916
+Office: 4110 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Sayan Mitra
+
+Department: Computer Science
+University: UIUC
+Email: mitras@illinois.edu
+Phone: (217) 333-7824
+Office: 266 Coordinated Science Lab
+
+Education: Ph.D., MIT, 2007. Thesis title: "A Verification Framework for Hybrid Systems." Advisor: Nancy Lynch
+Academic Positions: Affiliate Professor, Computer Science, 2018-
+Academic Positions: Professor, Electrical and Computer Engineering, 2018-
+Research Interests: Programming languages
+Research Interests: Formal verification and synthesis
+Research Interests: Safe AI and autonomy
+
+<----------------------------------------------------------------->
+Name: Radhika Mittal
+
+Department: Computer Science
+University: UIUC
+Email: radhikam@illinois.edu
+Phone: 
+Office: 257 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Marco Morales Aguirre
+
+Department: Computer Science
+University: UIUC
+Email: moralesa@illinois.edu
+Phone: (217) 244-8896
+Office: 3304 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: 2020-present, Teaching Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Klara Nahrstedt
+
+Department: Computer Science
+University: UIUC
+Email: klara@illinois.edu
+Phone: (217) 244-6624
+Office: 3104 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer and Information Science, University of Pennsylvania, 1995
+Academic Positions: Director, Coordinated Science Laboratory, College of Engineering, University of Illinois at Urbana-Champaign, 2015-present
+Academic Positions: Full Professor, Department of Computer Science, University of Illinois at Urbana-Champaign, 2005-Present
+Research Interests: Tele-health, trustworthy algorithms and protocols for health-based services; mobile trustworthy services for tele-health; wearable cameras in tele-health,  reduction of visual content in health-based scenarios
+Research Interests: Multimedia Security, Quality of Security,  watermarking, ownership and protection of ownership, privacy-preserving protocols for cyber-physical systems
+Research Interests: Smart Grid, Real-time security for CPS - real-time authentication protocols for smart grids, real-time encryption, key-management for Electric Vehicles,  key management for generation and transmission networks, trustworthy protocols for critical cyber-infrastructures such as Oil and Gas.
+Research Interests: Cloud computing, edge computing -  cyber-infrastructures for scientific instruments, real-time cloud computing, micro-services and real-time control of micro-services,  edge-cloud infrastructure;  real-time micro-service placement in edge-cloud infrastructure for multi-modal data;
+Research Interests: Quality of Experience for advanced multimedia applications - QoE for Video 360, QoE metrics and measurement methodologies.
+Research Interests: 3D Teleimmersion - telepresence systems with advanced multi-camera systems, advanced distribution systems and immersive delivery and display, teleimmersive environments, teleimmersive applications such as cyber-physiotherapy; multi-view content distribution protocols and algorithms; Video 360 systems; AR/VR systems.
+Research Interests: Semantic Translation between 3D teleimmersive applications and  distributed systems, QoS Brokerage in distributed systems, QoS compilation for real-time multi-modal applications.
+Research Interests: MIddleware platforms for multi-modal applications - QoS-aware service composition,  semantic translation between applications and and networks; content distribution protocols,
+Research Interests: Real-Time Resource Management for Multimedia Systems - QoS-aware Resource Management in wired and wireless networks,  Soft Real-time Scheduling, Energy-aware Multimedia Operating Systems and Network Protocols,
+Research Interests: QoS Routing - distributed QoS routing, hierarchical QoS routing, low-latency routing
+Research Interests: Network Quality of Service Management, Integration of Guaranteed and Best Effort Services for Audio/Video/DATA Traffic,  Real-Time Network Streaming and Distribution Protocols of Multi-Modal Content.
+
+<----------------------------------------------------------------->
+Name: Yee Man (Margaret) Ng
+
+Department: Computer Science
+University: UIUC
+Email: ymn@illinois.edu
+Phone: (217) 300-8186
+Office: 42 Gregory Hall
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Computational Social Science, Social Media Analytics, Data Visualizations
+
+<----------------------------------------------------------------->
+Name: David M. Nicol
+
+Department: Computer Science
+University: UIUC
+Email: dmnicol@illinois.edu
+Phone: (217) 244-1925
+Office: 451 Coordinated Science Lab
+
+Education: Ph.D., Computer Science,University of Virginia, 1985
+Academic Positions: Not Found
+Research Interests: security policy and its analysis
+Research Interests: parallel discrete-event simulation
+Research Interests: fluid based modeling
+Research Interests: mathematical modeling and analysis
+Research Interests: security
+Research Interests: public-key infrastructure
+
+<----------------------------------------------------------------->
+Name: Michael Nowak
+
+Department: Computer Science
+University: UIUC
+Email: mnowak1@illinois.edu
+Phone: (217) 244-8894
+Office: 2338 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, Texas A&M University, 2019
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Idoia Ochoa
+
+Department: Computer Science
+University: UIUC
+Email: idoia@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Luke Olson
+
+Department: Computer Science
+University: UIUC
+Email: lukeo@illinois.edu
+Phone: (217) 244-8422
+Office: 4312 Siebel Center for Comp Sci
+
+Education: Ph.D., Applied Mathematics, University of Colorado at Boulder, 2003
+Education: M.S., Mathematics, University of Iowa, 1999
+Education: B.A., Mathematics and Physics, Luther College, 1997
+Academic Positions: Fall 2016-present, Professor, Department of Computer Science, University of Illinois at Urbana-Champaign
+Academic Positions: Summer 2010-present, Affiliate Professor,	Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign
+Academic Positions: Fall 2011-2016, Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign
+Academic Positions: Fall 2005-Fall 2011, Assistant Professor, Department of Computer Science, University of Illinois at Urbana-Champaign
+Academic Positions: Fall 2003-Spring 2005, Visiting Assistant Professor/NSF VIGRE Postdoctoral Fellow, Division of Applied Mathematics, Brown University
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: David Padua
+
+Department: Computer Science
+University: UIUC
+Email: padua@illinois.edu
+Phone: (217) 333-4223
+Office: 4227 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Yongjoo Park
+
+Department: Computer Science
+University: UIUC
+Email: yongjoo@illinois.edu
+Phone: 
+Office: 2114 Siebel Center for Comp Sci
+
+Education: Ph.D. in Computer Science and Engineering, University of Michigan, Ann Arbor, 2017
+Education: M.S. in Computer Science, University of Michigan, Ann Arbor, 2013
+Education: B.S. in Electrical Engineering, Seoul National University, 2009
+Academic Positions: Not Found
+Research Interests: Systems for analytics and machine learning
+Research Interests: A.I. Data-intensive Systems
+
+<----------------------------------------------------------------->
+Name: Madhusudan Parthasarathy
+
+Department: Computer Science
+University: UIUC
+Email: madhu@illinois.edu
+Phone: (217) 244-1323
+Office: 3226 Siebel Center for Comp Sci
+
+Education: 2002 Ph.D., Theoretical Computer Science, Institute of Mathematical Sciences, University of Madras, Chennai, India.
+Academic Positions: Not Found
+Research Interests: Reasoning with heaps in software verification (Natural proofs, Strand, separation logic);
+Research Interests: Software Verification; 
+    Reliable and secure software engineering; 
+    Security; 
+    Program Synthesis; 
+    Logic and Automata Theory.
+
+<----------------------------------------------------------------->
+Name: Sanjay Patel
+
+Department: Computer Science
+University: UIUC
+Email: sjp@illinois.edu
+Phone: (217) 333-9219
+Office: 211 Coordinated Science Lab
+
+Education: Ph.D. Computer Science & Engineering, University of Michigan, May 1999
+Academic Positions: Not Found
+Research Interests: Computer architecture, microarchitecture, high-performance and reliable computer systems, the implications of future generation applications and implementation technologies on systems design.
+
+<----------------------------------------------------------------->
+Name: Hao Peng
+
+Department: Computer Science
+University: UIUC
+Email: haopeng@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Jian Peng
+
+Department: Computer Science
+University: UIUC
+Email: jianpeng@illinois.edu
+Phone: (217) 300-2825
+Office: 2118 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Associate Professor, Department of Computer Science
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Leonard B Pitt
+
+Department: Computer Science
+University: UIUC
+Email: pitt@illinois.edu
+Phone: 
+Office: 3237 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Maxim Raginsky
+
+Department: Computer Science
+University: UIUC
+Email: maxim@illinois.edu
+Phone: (217) 244-1782
+Office: 162 Coordinated Science Lab
+
+Education: Ph.D. in Electrical Engineering, Northwestern University, 2002
+Academic Positions: Not Found
+Research Interests: Deterministic and stochastic dynamical systems in machine learning, optimization, and control
+Research Interests: Probability and stochastic processes
+Research Interests: Statistical machine learning
+Research Interests: Information theory
+
+<----------------------------------------------------------------->
+Name: Lawrence Rauchwerger
+
+Department: Computer Science
+University: UIUC
+Email: rwerger@illinois.edu
+Phone: (217) 244-0968
+Office: 4114 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Parallel and distributed programming environments, compilers and architectures for parallel and distributed computing.
+
+<----------------------------------------------------------------->
+Name: Jim Rehg
+
+Department: Computer Science
+University: UIUC
+Email: jrehg@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: John F. Reid
+
+Department: Computer Science
+University: UIUC
+Email: j-reid1@illinois.edu
+Phone: (331) 666-1113
+Office: 131 Coordinated Science Lab
+
+Education: Ph.D. Agricultural Engineering, Texas A&M, 1987
+Education: M.S. Agricultural Engineering, Virginia Tech, 1982
+Education: B.S. Agricultural Engineering, Virginia Tech, 1980
+Academic Positions: Research Professor, Computer Science (50%), Agricultural and Biological Engineering (50%), ECE, 0%; University of Illinois at Urbana Champaign (2022-present)
+Academic Positions: Vice President; Enterprise Technologies, Brunswick Corporation (2020-2022)
+Academic Positions: Director, Product Technology & Innovation; John Deere (2006-2020)
+Academic Positions: Manager, Product Technology; John Deere (2005)
+Academic Positions: Principle Scientist/Engineer; John Deere (2001)
+Academic Positions: Full Professor; University of Illinois at Urbana Champaign (1997)
+Academic Positions: Associate Professor; University of Illinois at Urbana Champaign (1992)
+Academic Positions: Assistant Professor; University of Illinois at Urbana Champaign (1986)
+Research Interests: Translation of research into practice, outcome-driven innovation processes, business model innovation, and innovation management.
+Research Interests: Circular bioeconomy in agriculture, precision agriculture technologies, agricultural robotics and automation, automation of agricultural and biological systems.
+
+<----------------------------------------------------------------->
+Name: Edward M Reingold
+
+Department: Computer Science
+University: UIUC
+Email: reingold@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Ling Ren
+
+Department: Computer Science
+University: UIUC
+Email: renling@illinois.edu
+Phone: (217) 244-0761
+Office: 4312 Siebel Center for Comp Sci
+
+Education: Ph.D., Computer Science, Massachusetts Institute of Technology, 2018
+Academic Positions: University of Illinois Urbana-Champaign, Assistant Professor, 2019 – present
+Research Interests: Security and Privacy
+Research Interests: Secure Distributed Algorithms
+Research Interests: Cryptography
+
+<----------------------------------------------------------------->
+Name: Talia Ringer
+
+Department: Computer Science
+University: UIUC
+Email: tringer@illinois.edu
+Phone: 
+Office: 4218 Siebel Center for Comp Sci
+
+Education: University of Washington, Ph.D. in Computer Science, 2021
+Education: University of Maryland, College Park, B.S. in Mathematics and Computer Science, 2012
+Academic Positions: Assistant Professor, University of Illinois, 2021-Present
+Research Interests: Dependent Type Theory
+Research Interests: Verification
+Research Interests: Interactive Theorem Proving
+Research Interests: Proof Automation
+Research Interests: Proof Engineering
+
+<----------------------------------------------------------------->
+Name: Gene E Robinson
+
+Department: Computer Science
+University: UIUC
+Email: generobi@illinois.edu
+Phone: (217) 265-0309
+Office: 320 Morrill Hall
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Grigore Rosu
+
+Department: Computer Science
+University: UIUC
+Email: grosu@illinois.edu
+Phone: (217) 244-7431
+Office: 2110 Siebel Center for Comp Sci
+
+Education: Ph.D. in Computer Science, University of California at San Diego, 2000
+Thesis:  “Hidden Logic”. Department of Computer Science and Engineering, University of California at San Diego, 4 September 2000.
+Education: M.S. in Fundamentals of Computing, University of Bucharest, Romania, 1996
+Education: B.A. in Mathematics, University of Bucharest, Romania, 1995
+Academic Positions: Not Found
+Research Interests: Software and software related aspects.
+Research Interests: Design, semantics and implementation of programming and specification languages.
+Research Interests: Automated software engineering and formal methods, especially "push-button" techniques for certification, monitoring synthesis and modularization.
+Research Interests: Automated reasoning about computer systems, applications of logics, Theorem proving.  Algorithms, (co)algebra, category theory.
+
+<----------------------------------------------------------------->
+Name: Romit Roy Choudhury
+
+Department: Computer Science
+University: UIUC
+Email: croy@illinois.edu
+Phone: (217) 300-7577
+Office: 263 Coordinated Science Lab
+
+Education: Ph.D., Computer Science, University of Illinois at Urbana-Champaign, 2006
+Academic Positions: Assistant Professor, ECE and CS, Duke University, 2006 to 2011.
+Academic Positions: Visiting Researcher, Microsoft Research, Redmond, Summer 2010
+Academic Positions: Associate Professor, ECE and CS, Duke University, 2011 to 2013
+Academic Positions: Visiting Researcher, Intel, Santa Clara, Summer 2016
+Academic Positions: Visiting Principle Scientist, Samsung AI Center (SAIC), Cambridge, UK, Fall 2019.
+Research Interests: Wireless Networking, Mobile Computing, and Applied Signal Processing with applications to IoT, Acoustics, Wearable Computing
+
+<----------------------------------------------------------------->
+Name: Bruce R Schatz
+
+Department: Computer Science
+University: UIUC
+Email: schatz@illinois.edu
+Phone: (217) 244-0651
+Office: 4230 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Alexander Schwing
+
+Department: Computer Science
+University: UIUC
+Email: aschwing@illinois.edu
+Phone: 
+Office: 103 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Machine Learning
+Research Interests: Computer Vision
+
+<----------------------------------------------------------------->
+Name: Lui Sha
+
+Department: Computer Science
+University: UIUC
+Email: lrs@illinois.edu
+Phone: (217) 244-1887
+Office: 4122 Siebel Center for Comp Sci
+
+Education: Ph.D., ECE, Carnegie Mellon University, Pittsburgh, PA, USA, 1985
+Academic Positions: Not Found
+Research Interests: Cyber-Physical Systems, Safe Autonomy, Medical Guidance Systems
+
+<----------------------------------------------------------------->
+Name: Eric Gene Shaffer
+
+Department: Computer Science
+University: UIUC
+Email: shaffer1@illinois.edu
+Phone: (217) 265-6590
+Office: 2209 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Mariana Silva
+
+Department: Computer Science
+University: UIUC
+Email: mfsilva@illinois.edu
+Phone: (217) 300-6633
+Office: 2213 Siebel Center for Comp Sci
+
+Education: PhD Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign, 2009
+Education: MS Mechanical Engineering, Federal University of Rio de Janeiro, Brazil, 2003
+Education: BS Mechanical Engineering, Federal University of Rio de Janeiro, Brazil, 2001
+Academic Positions: Teaching Associate Professor, Fall 2020 - present
+Academic Positions: Teaching Assistant Professor, August 2017 - Fall 2020
+Academic Positions: Curriculum Development Coordinator, July 2014 - July 2017
+Academic Positions: Visiting Lecturer, January 2012 - July 2014
+Academic Positions: Postdoctoral Research Assistant, May 2010 - August 2012
+Academic Positions: Graduate Research Assistant, August 2003 - September 2009
+Research Interests: Fostering collaborations and group work during programming activities
+Research Interests: Exploration of technological innovations for large-scale teaching, such as the development of online course assessments.
+
+<----------------------------------------------------------------->
+Name: Gagandeep Singh
+
+Department: Computer Science
+University: UIUC
+Email: ggnds@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D. in Computer Science, ETH Zurich, Nov 2014 - Sep 2020.
+Education: Masters in Computer Science, ETH Zurich, Sep 2012 - Sep 2014.
+Education: Bachelors in Computer Science and Engineering, IIT Patna, Aug 2008 - May 2012.
+Academic Positions: Not Found
+Research Interests: Systems
+Research Interests: Artificial Intelligence
+Research Interests: Programming Languages
+
+<----------------------------------------------------------------->
+Name: Makrand SINHA
+
+Department: Computer Science
+University: UIUC
+Email: msinha@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Robert D Skeel
+
+Department: Computer Science
+University: UIUC
+Email: skeel@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Paris Smaragdis
+
+Department: Computer Science
+University: UIUC
+Email: paris@illinois.edu
+Phone: (217) 265-6893
+Office: 3231 Siebel Center for Comp Sci
+
+Education: Ph.D. Massachusetts Institute of Technology, 2001, Advisor: Barry Vercoe
+Academic Positions: Not Found
+Research Interests: Audio Processing
+Research Interests: Machine Listening
+Research Interests: Signal Processing
+Research Interests: Machine Learning
+
+<----------------------------------------------------------------->
+Name: Marc Snir
+
+Department: Computer Science
+University: UIUC
+Email: snir@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D., Hebrew University of Jerusalem (supervisor, Professor Eli Shamir), 1979
+Academic Positions: 2007-2012, Lead Architect, Blue Waters system software, NCSA
+Academic Positions: 2007-2011, Co-director, UPCRC
+Academic Positions: 2007-2011, Professor (0%), Graduate School of Library and Information Science, University of Illinois at U-C
+Academic Positions: 2001-present, Michael Faiman Professor, Department of Computer Science, University of Illinois at U-C
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Brad R Solomon
+
+Department: Computer Science
+University: UIUC
+Email: bradsol@illinois.edu
+Phone: (217) 244-8904
+Office: 2233 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Edgar Solomonik
+
+Department: Computer Science
+University: UIUC
+Email: solomon2@illinois.edu
+Phone: (217) 300-4794
+Office: 4229 Siebel Center for Comp Sci
+
+Education: PhD, University of California Berkeley, 2010-2014, Thesis title: Provably Efficient Algorithms for Numerical Tensor Algebra, advisor: James Demmel
+Education: BS, University of Illinois at Urbana-Champaign, 2008-2010
+Academic Positions: Assistant Professor, University of Illinois at Urbana-Champaign, 2016-present
+Academic Positions: Postdoctoral Researcher, ETH Zurich, 2014-2016, advisor: Torsten Hoefler
+Research Interests: tensor computations
+Research Interests: numerical optimization
+Research Interests: numerical linear algebra
+Research Interests: parallel and high performance computing
+Research Interests: communication-avoiding algorithms
+Research Interests: communication lower bounds
+Research Interests: electronic structure calculations
+Research Interests: graph algorithms
+Research Interests: quantum computing
+
+<----------------------------------------------------------------->
+Name: Elahe Soltanaghai
+
+Department: Computer Science
+University: UIUC
+Email: elahe@illinois.edu
+Phone: 
+Office: 3108 Siebel Center for Comp Sci
+
+Education: PhD in Computer Science, University of Virginia, 2019
+Education: MS in Computer Engineering, Sharif University of Technology, 2014.
+Education: BS in Computer Engineering (2011) & Information Technology Engineering (2013), Amirkabir University of Technology, Tehran, Iran.
+Academic Positions: Assistant Professor, University of Illinois Urbana-Champaign, Computer Science, 2021-Present.
+Academic Positions: Postdoctoral Researcher, Carnegie Mellon University, Pittsburgh, 2019-2021.
+Research Interests: Wireless Sensing and Communication
+Research Interests: Wireless Embedded Systems
+Research Interests: Cyber-physical Systems
+
+<----------------------------------------------------------------->
+Name: Rayadurgam Srikant
+
+Department: Computer Science
+University: UIUC
+Email: rsrikant@illinois.edu
+Phone: (217) 333-2457
+Office: 107 Coordinated Science Lab
+
+Education: Ph.D.	Electrical Engineering		University of Illinois			1991
+Academic Positions: Not Found
+Research Interests: Communication Networks
+Research Interests: Machine Learning
+Research Interests: Cloud Computing
+Research Interests: Stochastic Networks
+Research Interests: Game Theory
+Research Interests: Stochastic Control
+
+<----------------------------------------------------------------->
+Name: Sarah Gimbert Sterman
+
+Department: Computer Science
+University: UIUC
+Email: ssterman@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Jimeng Sun
+
+Department: Computer Science
+University: UIUC
+Email: jimeng@illinois.edu
+Phone: 
+Office: 
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Data and Information Systems
+Research Interests: Bioinformatics and Computational Biology
+Research Interests: Artificial Intelligence
+
+<----------------------------------------------------------------->
+Name: Hari Sundaram
+
+Department: Computer Science
+University: UIUC
+Email: hs1@illinois.edu
+Phone: (217) 300-4878
+Office: 2126 Siebel Center for Comp Sci
+
+Education: Ph.D., Electrical Engineering, Columbia University, New York, 2002.
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Ruby Tahboub
+
+Department: Computer Science
+University: UIUC
+Email: rubyt@illinois.edu
+Phone: 
+Office: 
+
+Education: Purdue University, West Lafayette, M.S in Computer Science -2016
+Education: Purdue University, West Lafayette, Ph.D. in Computer Science - 2019
+Academic Positions: Teaching Assistant Professor,  University of Illinois Urbana-Champaign, Computer Science, 2022-Present.
+Academic Positions: Visiting Assistant Professor, Purdue University, West Lafayette, Computer Science, 2019-2022
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Matus Jan Telgarsky
+
+Department: Computer Science
+University: UIUC
+Email: mjt@illinois.edu
+Phone: (217) 300-4507
+Office: 3212 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Hanghang Tong
+
+Department: Computer Science
+University: UIUC
+Email: htong@illinois.edu
+Phone: (217) 244-0884
+Office: 2120 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Large scale data mining and machine learning, especially for graph and multimedia data with applications to social networks analysis, healthcare, cyber-security and e-commerce.
+
+<----------------------------------------------------------------->
+Name: Josep Torrellas
+
+Department: Computer Science
+University: UIUC
+Email: torrella@illinois.edu
+Phone: (217) 244-4148
+Office: 4231 Siebel Center for Comp Sci
+
+Education: Ph.D. Electrical Engineering, Stanford University, 1992
+Academic Positions: Not Found
+Research Interests: Low Power Design
+Research Interests: Hardware and Software Reliability
+Research Interests: Parallel Processing
+Research Interests: Shared-Memory Multiprocessors
+Research Interests: Computer Architecture
+
+<----------------------------------------------------------------->
+Name: Michael Twidale
+
+Department: Computer Science
+University: UIUC
+Email: twidale@illinois.edu
+Phone: (217) 265-0510
+Office: 336 510 E Daniel
+
+Education: Ph.D. in Computing, Lancaster University, 1990
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Luther Tychonievich
+
+Department: Computer Science
+University: UIUC
+Email: luthert@illinois.edu
+Phone: +1 217 333 8609
+Office: 2340 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Lav R Varshney
+
+Department: Computer Science
+University: UIUC
+Email: varshney@illinois.edu
+Phone: (217) 244-8042
+Office: 314 Coordinated Science Lab
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Deepak Vasisht
+
+Department: Computer Science
+University: UIUC
+Email: deepakv@illinois.edu
+Phone: 
+Office: 3110 Siebel Center for Comp Sci
+
+Education: B. Tech., Computer Science and Engineering, IIT Delhi
+Education: Ph.D., Computer Science and Engineering, MIT
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Pramod Viswanath
+
+Department: Computer Science
+University: UIUC
+Email: pramodv@illinois.edu
+Phone: 
+Office: 
+
+Education: Doctor of Philosophy, Major: Electrical Engineering and Computer Science, University of California at Berkeley, 2000
+Academic Positions: Not Found
+Research Interests: Wireless Communication, Information Theory, Cryptocurrencies
+
+<----------------------------------------------------------------->
+Name: Mahesh Viswanathan
+
+Department: Computer Science
+University: UIUC
+Email: vmahesh@illinois.edu
+Phone: (217) 265-6591
+Office: 3232 Siebel Center for Comp Sci
+
+Education: Ph.D. Computer and Information Science, University of Pennsylvania, 2000
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Gang Wang
+
+Department: Computer Science
+University: UIUC
+Email: gangw@illinois.edu
+Phone: (217) 244-1008
+Office: 4316 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Affiliate Faculty, Informatics Programs, School of Information Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, Sep. 2021 - Present
+Academic Positions: Affiliate Faculty, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, Nov. 2020 - Present
+Academic Positions: Assistant Professor, Department of Computer Science,  
+University of Illinois at Urbana-Champaign, Urbana, IL, 
+Aug. 2019 - Present
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Shaowen Wang
+
+Department: Computer Science
+University: UIUC
+Email: shaowen@illinois.edu
+Phone: (217) 333-7608
+Office: 265 Computing Applications Bldg
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Shenlong Wang
+
+Department: Computer Science
+University: UIUC
+Email: shenlong@illinois.edu
+Phone: 
+Office: 3336 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Yang Wang
+
+Department: Computer Science
+University: UIUC
+Email: yvw@illinois.edu
+Phone: 
+Office: 239 Grad Sch of Lib & Info Science
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Yuxiong Wang
+
+Department: Computer Science
+University: UIUC
+Email: yxw@illinois.edu
+Phone: (217) 244-8913
+Office: 3316 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Tandy Warnow
+
+Department: Computer Science
+University: UIUC
+Email: warnow@illinois.edu
+Phone: (217) 300-3087
+Office: 3235 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Tiffani L Williams
+
+Department: Computer Science
+University: UIUC
+Email: tiffani@illinois.edu
+Phone: 
+Office: 2103 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Reproducible research
+Research Interests: Experimental performance studies of algorithms
+Research Interests: Hhigh-performance computing
+Research Interests: Phylogenetic tree inference
+Research Interests: Bioinformatics
+Research Interests: Computer science education
+
+<----------------------------------------------------------------->
+Name: Marianne S Winslett
+
+Department: Computer Science
+University: UIUC
+Email: winslett@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D. in Computer Science, Stanford University, 1987
+Academic Positions: Not Found
+Research Interests: Information security, scientific data management
+
+<----------------------------------------------------------------->
+Name: Michael Joseph Woodley
+
+Department: Computer Science
+University: UIUC
+Email: mwoodley@illinois.edu
+Phone: (217) 244-1971
+Office: 2101 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Abigail Wooldridge
+
+Department: Computer Science
+University: UIUC
+Email: arwool@illinois.edu
+Phone: (217) 300-8086
+Office: 209A Transportation Building
+
+Education: Ph.D., Industrial Engineering, University of Wisconsin – Madison, Madison, Wisconsin, 2018. Thesis: "Team Cognition Distributed in Spatio-Temporal Processes: A Macroergonomic Approach to Trauma Care"
+Education: M.S., Industrial and Systems Engineering (Human Factors and Ergonomics), University of Wisconsin – Madison, Madison, Wisconsin, 2013
+Education: M.Eng. (with thesis), Summa Cum Laude, Industrial Engineering (Operations Research and Applied Statistics), University of Louisville, Louisville, Kentucky, 2012. Thesis: "Modeling the workflow of one primary care physician-nurse team."
+Education: B.S., Summa Cum Laude, Industrial Engineering, University of Louisville, Louisville, Kentucky, 2011
+Academic Positions: Courtesy (0%) Appointment, Coordinated Science Laboratory, 2021 – Present
+Academic Positions: Assistant Professor (0%), Department of Biomedical and Translational Sciences, Carle Illinois College of Medicine, Urbana, Illinois, 2020 - Present
+Academic Positions: Courtesy (0%) Appointment, Computer Science, University of Illinois at Urbana-Champaign, Urbana, Illinois, 2020 - Present
+Academic Positions: Courtesy (0%) Appointment, School of Information Sciences, University of Illinois at Urbana-Champaign, Urbana, Illinois, 2019 - Present
+Academic Positions: Courtesy (0%) Appointment, Kinesiology and Community Health, University of Illinois at Urbana-Champaign, Urbana, Illinois, 2019 - Present
+Academic Positions: Affiliate Faculty (0%), Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois, 2018-Present
+Academic Positions: Assistant Professor, Department of Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, Urbana, Illinois, 2018 - Present
+Research Interests: Patient journey
+Research Interests: Patient safety
+Research Interests: Care transitions
+Research Interests: Teams
+Research Interests: Team cognition
+Research Interests: Sociotechnical systems
+Research Interests: Macroergonomics
+Research Interests: Human factors and ergonomics
+
+<----------------------------------------------------------------->
+Name: Tianyin Xu
+
+Department: Computer Science
+University: UIUC
+Email: tyxu@illinois.edu
+Phone: (217) 300-8117
+Office: 4108 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Wenzhen Yuan
+
+Department: Computer Science
+University: UIUC
+Email: yuanwz@illinois.edu
+Phone: 
+Office: 
+
+Education: Ph.D., MIT, 2018
+Education: S.M., MIT, 2014
+Education: B.E., Tsinghua University, 2012
+Academic Positions: Assistant Professor, the Robotics Institute, CMU, 2019-2023
+Research Interests: Tactile sensing, and its application in robot perception and manipulation; Soft robotics; Haptics
+
+<----------------------------------------------------------------->
+Name: ChengXiang  Zhai
+
+Department: Computer Science
+University: UIUC
+Email: czhai@illinois.edu
+Phone: (217) 244-4943
+Office: 2116 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Not Found
+
+<----------------------------------------------------------------->
+Name: Lingming Zhang
+
+Department: Computer Science
+University: UIUC
+Email: lingming@illinois.edu
+Phone: (217) 244-8921
+Office: 2104 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: Formal Methods
+Research Interests: Programming Languages
+Research Interests: Software Engineering
+
+<----------------------------------------------------------------->
+Name: Han Zhao
+
+Department: Computer Science
+University: UIUC
+Email: hanzhao@illinois.edu
+Phone: 
+Office: 3320 Siebel Center for Comp Sci
+
+Education: PhD, Machine Learning Department, School of Computer Science, Carnegie Mellon University, 2020
+Education: Master of Mathematics, David R. Cheriton School of Computer Science, University of Waterloo, 2015
+Education: Bachelor of Engineering, Computer Science, Tsinghua University, 2013
+Academic Positions: Not Found
+Research Interests: Machine Learning
+
+<----------------------------------------------------------------->
+Name: Craig Zilles
+
+Department: Computer Science
+University: UIUC
+Email: zilles@illinois.edu
+Phone: (217) 244-0553
+Office: 4112 Siebel Center for Comp Sci
+
+Education: Not Found
+Academic Positions: Not Found
+Research Interests: computer-based testing, learning analytics, computer architecture, compiler construction, dynamic optimization,  program profiling, speculation, general-purpose processors, managed languages, dynamic languages, computer science education, concept inventories
+
+<----------------------------------------------------------------->

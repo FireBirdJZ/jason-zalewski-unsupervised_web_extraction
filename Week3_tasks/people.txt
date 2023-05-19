@@ -1,0 +1,136 @@
+Name: Mikael Backlund
+Department: Chemistry at Illinois
+University: University of Illinois at Urbana-Champaign
+Email: mikaelb@illinois.edu
+Phone: 
+Office: CLSL A129B 600 S. Mathews Avenue MC-712 Urbana, IL 61801
+Research Areas:
+	- Optical microscopy, quantum sensing, magnetic resonance, single-molecule and super-resolution microscopy, metrology, biophysics, condensed matter
+<----------------------------------------------------------------->
+Name: Martin D. Burke
+Department: Chemistry at Illinois
+University: University of Illinois at Urbana-Champaign
+Email: mdburke@illinois.edu
+Phone: (217) 300-3398
+Office: University of Illinois 454 RAL, Box 52-5 600 South Mathews Avenue Urbana, IL 61801
+Research Areas:
+	- Synthesis and study of small molecules with protein-like functions
+<----------------------------------------------------------------->
+Name: Andrew A. Gewirth
+Department: Chemistry at Illinois
+University: University of Illinois at Urbana-Champaign
+Email: agewirth@illinois.edu
+Phone: (217) 333-8329
+Office: University of Illinois A506 CLSL, Box 3-6 600 South Mathews Avenue Urbana, IL 61801
+Research Areas:
+	- inorganic spectroscopy; scanning tunneling microscopy; interfacial electrochemistry; materials properties of surfaces; spectroscopic and probe microscopic characterization of surfaces in varied environments
+<----------------------------------------------------------------->
+Name: Jeff Erickson
+
+Department: Computer Science
+University: University of Illinois at Urbana-Champaign
+Email: jeffe@illinois.edu
+Phone: (217) 333-6769
+Office: 3237 Siebel Center for Comp Sci
+Education:
+	- Ph.D., Computer Science, University of California, Berkeley, July 1996
+	- M.S., Information and Computer Science, University of California, Irvine, June 1992
+	- B.A., Computer Science and Mathematical Sciences (double major), Rice University, May 1987
+Research Areas:
+	- Computers and Education
+	- Theory and Algorithms
+<----------------------------------------------------------------->
+Name: Jiawei Han
+
+Department: Computer Science
+University: University of Illinois at Urbana-Champaign
+Email: hanj@illinois.edu
+Phone: (217) 333-6903
+Office: 2132 Siebel Center for Comp Sci
+Education:
+	- Ph.D., Computer Sciences, University of Wisconsin-Madison, 1985
+Research Areas:
+	- Artificial Intelligence
+	- Bioinformatics and Computational Biology
+	- Data and Information Systems
+<----------------------------------------------------------------->
+Name: Tarek Abdelzaher
+
+Department: Computer Science
+University: University of Illinois at Urbana-Champaign
+Email: zaher@illinois.edu
+Phone: (217) 265-6793
+Office: 4126 Siebel Center for Comp Sci
+Education:
+	- Ph. D., Computer Science and Engineering, University of Michigan, Ann Arbor, MI, August 1999.
+Research Areas:
+	- Systems and Networking
+<----------------------------------------------------------------->
+Name: Jeff Erickson
+
+Department: Computer Science
+University: University of Illinois at Urbana-Champaign
+Email: jeffe@illinois.edu
+Phone: (217) 333-6769
+Office: 3237 Siebel Center for Comp Sci
+Education:
+	- Ph.D., Computer Science, University of California, Berkeley, July 1996
+	- M.S., Information and Computer Science, University of California, Irvine, June 1992
+	- B.A., Computer Science and Mathematical Sciences (double major), Rice University, May 1987
+Research Areas:
+	- Computers and Education
+	- Theory and Algorithms
+<----------------------------------------------------------------->
+Name: Jiawei Han
+
+Department: Computer Science
+University: University of Illinois at Urbana-Champaign
+Email: hanj@illinois.edu
+Phone: (217) 333-6903
+Office: 2132 Siebel Center for Comp Sci
+Education:
+	- Ph.D., Computer Sciences, University of Wisconsin-Madison, 1985
+Research Areas:
+	- Artificial Intelligence
+	- Bioinformatics and Computational Biology
+	- Data and Information Systems
+<----------------------------------------------------------------->
+Name: Tarek Abdelzaher
+
+Department: Computer Science
+University: University of Illinois at Urbana-Champaign
+Email: zaher@illinois.edu
+Phone: (217) 265-6793
+Office: 4126 Siebel Center for Comp Sci
+Education:
+	- Ph. D., Computer Science and Engineering, University of Michigan, Ann Arbor, MI, August 1999.
+Research Areas:
+	- Systems and Networking
+<----------------------------------------------------------------->
+Name: Mikael Backlund
+Department: Chemistry at Illinois
+University: University of Illinois at Urbana-Champaign
+Email: mikaelb@illinois.edu
+Phone: 
+Office: CLSL A129B 600 S. Mathews Avenue MC-712 Urbana, IL 61801
+Research Areas:
+	- Optical microscopy, quantum sensing, magnetic resonance, single-molecule and super-resolution microscopy, metrology, biophysics, condensed matter
+<----------------------------------------------------------------->
+Name: Martin D. Burke
+Department: Chemistry at Illinois
+University: University of Illinois at Urbana-Champaign
+Email: mdburke@illinois.edu
+Phone: (217) 300-3398
+Office: University of Illinois 454 RAL, Box 52-5 600 South Mathews Avenue Urbana, IL 61801
+Research Areas:
+	- Synthesis and study of small molecules with protein-like functions
+<----------------------------------------------------------------->
+Name: Andrew A. Gewirth
+Department: Chemistry at Illinois
+University: University of Illinois at Urbana-Champaign
+Email: agewirth@illinois.edu
+Phone: (217) 333-8329
+Office: University of Illinois A506 CLSL, Box 3-6 600 South Mathews Avenue Urbana, IL 61801
+Research Areas:
+	- inorganic spectroscopy; scanning tunneling microscopy; interfacial electrochemistry; materials properties of surfaces; spectroscopic and probe microscopic characterization of surfaces in varied environments
+<----------------------------------------------------------------->
