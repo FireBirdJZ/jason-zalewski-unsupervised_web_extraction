@@ -61,12 +61,12 @@ pip install -r requirements.txt
 
 
 ### Important 
-Go to [our shared google Drive space](https://drive.google.com/drive/folders/1rxPAdGTVcl-Xo6uuFovdKcCw5_FEaXIC?usp=sharing) and create a folder with the format `FirstnameLastName-Projectname` (e.g. `AshutoshUkey-KeywordTrie`). In here, make sure to include a zipped copy of any data files related to your module (including `.sql` dumps of necessary databases) as well as a backup zipped copy of your Github repo (i.e. all the files you upload to Github).
+[Link to Google Drive folder](https://drive.google.com/drive/folders/1peBg9gF9HU-RSXqomwfL-a_EOFwKEFwS?usp=sharing)
+
 
 
 ## Demo video
-<iframe src="https://drive.google.com/file/d/1ncT7mfjHhHiHwJB9qjmQgsvUCQuvsTCK/preview" width="640" height="480" allow="autoplay"></iframe>
-Make sure to include a video showing your module in action and how to use it in this section. Github Pages doesn't support this so I am unable to do this here. However, this can be done in your README.md files of your own repo. Follow instructions [here](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md) of the accepted answer 
+[![Watch the video](https://img.youtube.com/vi/JOjDNUGeqx0/hqdefault.jpg)](https://youtu.be/JOjDNUGeqx0)
 
 
 ## Algorithmic Design 
