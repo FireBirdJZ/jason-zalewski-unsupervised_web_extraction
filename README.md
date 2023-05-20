@@ -153,7 +153,7 @@ Approach 3: Clustering Approach: This was a early attempt at trying to do unsupe
 
 Approach 4: RoadRunner Ommited: The github repo explored had some problems with different types of inputs from pages not included in its samples. 
 
-Approach 5: ChatGpt Method: Paid Api which makes it running it not through the UI an expensive option for many webpages for extraction. Also if you don't give it enough webpage text information it will make up information to fill out the JSON output.
+Approach 5: ChatGpt Method: A Paid Api which makes running it not through the UI an expensive option for many webpages for extraction. Also if you don't give it enough webpage text information it will make up information to fill out the JSON output.
 
 Approach 6: OpenSource LLM Method: Some models have poor results in comparsion to ChatGPT. Also running the models locally takes lots of compute power for models that have a chance to get results similar to ChatGpt and smaller models don't show promosing results. 
 
