@@ -3,7 +3,13 @@
 
 ## Overview
 
-This project goes over different ways of doing mostly unsupervised web information extraction from a set of similar webpages. This repo was used mostly for exploration so I recommend to use this Google collab that presents the method in a easier to read fashion.
+This project goes over different ways of doing mostly unsupervised web information extraction from a set of similar webpages. 
+
+This repo was used mostly for exploration so I recommend to use this Google collab that presents the approaches used in a easier to read fashion.
+[Open in Google Colab](https://colab.research.google.com/drive/1Ax4yyOa1avfro1PjNmitcrQPD4Q3HHLt?usp=sharing)
+
+
+
   
 Week1_tasks: This shows the The Manuel Extraction Method and Google Query Method.
   
