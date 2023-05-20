@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project goes over different ways of doing mostly unsupervised web information extraction. This repo was used mostly for exploration so I recommend to use this Google collab that presents the method in a easier to read fashion.
+This project goes over different ways of doing mostly unsupervised web information extraction from a set of similar webpages. This repo was used mostly for exploration so I recommend to use this Google collab that presents the method in a easier to read fashion.
   
 Week1_tasks: This shows the The Manuel Extraction Method and Google Query Method.
 Week2_tasks: This shows some improvement in The Manuel Extraction Method as well as some exploration of unsupervised methods that didn't bear many fruits.
@@ -16,18 +16,12 @@ Week6_tasks: This shows what the ChatGpt progam could like using the API for inf
 
 List the steps needed to install your module's dependencies: 
 
-1. Include what version of Python (e.g. 3.8.12) and what version of pip (e.g. 21.3.1) you used when running your module. If you do not specify these, other users may run into several problems when trying to install dependencies!
-
-2. Include a requirements.txt containing all of the python dependencies needed at your project's root (see this [link](https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt) for instructions on how to create a requirements.txt). If you used a python virtual environment, use `pip freeze -l > requirements.txt` to generate your requirements.txt file. Make sure to include the below line somewhere in this section to tell users how to use your requirements.txt. 
+Python Version 3.9 is used and pip Version 23.0
 ```
 pip install -r requirements.txt 
 ```
 
-3. Additionally, list any other setup required to run your module such as installing MySQL or downloading data files that you module relies on. 
 
-4. Include instructions on how to run any tests you have written to verify your module is working properly. 
-
-It is very important to also include an overall breakdown of your repo's file structure. Let people know what is in each directory and where to look if they need something specific. This will also let users know how your repo needs to structured so that your module can work properly
 
 ```
 firstname-lastname-repo-name/
