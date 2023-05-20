@@ -19,7 +19,7 @@ Week6_tasks: This shows what the ChatGpt progam could like using the API for inf
 
 ## Setup
 
-List the steps needed to install your module's dependencies: 
+The steps needed to install your module's dependencies: 
 
 Python Version 3.9 is used and pip Version 23.0
 ```
